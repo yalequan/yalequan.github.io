@@ -1,20 +1,26 @@
 ---
-title: "Teaching experience 1"
+title: "Graduate Teaching Associate"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/CSULB_TA
+venue: "California State University, Long Beach. Mathematics and Statistics"
+date: 2014 - 2020
+location: "Long Beach, California"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Statistics for Everyday Life
 ======
+Fall 2020
 
-Heading 2
+Essential Algebra B
 ======
+Spring 2020
+Spring 2019
 
-Heading 3
+The Power of Mathematics
 ======
+Fall 2019
+
+Foundations of Quantitative Reasoning
+=====
+Fall 2018
