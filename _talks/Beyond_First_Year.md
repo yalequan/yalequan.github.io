@@ -4,7 +4,7 @@ collection: talks
 type: "Presentation"
 permalink: /talks/Beyond_First_Year
 venue: "Beyond the First Year"
-date: 2020-11-01
+date: 2020-11-17
 location: "California State University, Long Beach"
 ---
 
