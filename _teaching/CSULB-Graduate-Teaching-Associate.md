@@ -1,10 +1,11 @@
 ---
 title: "Graduate Teaching Associate"
 collection: teaching
-#type: "Undergraduate course"
+type: "Department of Mathematics and Statistics"
 permalink: /teaching/CSULB_TA
-venue: "California State University, Long Beach. Mathematics and Statistics"
-#date: 2018-08-01
+venue: "California State University, Long Beach"
+date: 2018-08-01
+date: 2020-12-30
 location: "Long Beach, California"
 ---
 
