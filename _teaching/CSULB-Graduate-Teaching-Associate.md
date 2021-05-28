@@ -8,6 +8,8 @@ venue: "California State University, Long Beach. Mathematics and Statistics"
 location: "Long Beach, California"
 ---
 
+This is a list of courses taught as a Graduate Teaching Associate at CSULB
+
 Statistics for Everyday Life
 ======
 Fall 2020
