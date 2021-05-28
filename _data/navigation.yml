@@ -6,6 +6,9 @@ main:
   - title: "Talks"
     url: /talks/    
 
+  - title: "Portfolio"
+    url: /portfolio/
+
   - title: "CV [Opens a PDF in this window]"
     url: /files/Yale_Quan_CV_github.pdf
 
