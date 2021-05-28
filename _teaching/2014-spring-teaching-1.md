@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/CSULB_TA
 venue: "California State University, Long Beach. Mathematics and Statistics"
-date: 2014 - 2020
+date: 2018-08-01
 location: "Long Beach, California"
 ---
 
