@@ -6,8 +6,6 @@ excerpt: 'In 2015 the California State University system launched Graduation Ini
 date: 2020-12-01
 venue: 'ProQuest Dissertations'
 paperurl: 'https://www.proquest.com/openview/9b14020133c902798cb4cce48cb1e8d2/1?pq-origsite=gscholar&cbl=18750&diss=y'
-citation: 'Quan, YB. (2020). &quot;"A Multivariate Statistical Analysis of Major Change Patterns and Significant Factors That Influence Graduation Rates: A Case Study at California State University, Long Beach&quot; (Publication No. 28155286)[Masters thesis, California State University, Long Beach.] ProQuest Dissertations and Theses database.'
+citation: 'Quan, YB. (2020). &quot;A Multivariate Statistical Analysis of Major Change Patterns and Significant Factors That Influence Graduation Rates: A Case Study at California State University, Long Beach&quot; (Publication No. 28155286)[Masters thesis, California State University, Long Beach.] ProQuest Dissertations and Theses database.'
 ---
 This paper was written for partial fulfilment of my Masters in Applied Statistics.
-
-Recommended citation: Quan, YB. (2020). &quot;"A Multivariate Statistical Analysis of Major Change Patterns and Significant Factors That Influence Graduation Rates: A Case Study at California State University, Long Beach&quot; (Publication No. 28155286)[Masters thesis, California State University, Long Beach.] ProQuest Dissertations and Theses database.
