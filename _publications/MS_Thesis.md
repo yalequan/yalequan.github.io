@@ -10,7 +10,7 @@ citation: 'Quan, YB. (2020). &quot;A Multivariate Statistical Analysis of Major 
 ---
 This paper was written for partial fulfilment of my Masters in Applied Statistics.
 
-Abstract: In 2015 the California State University system launched Graduation Initiative 2025
+**Abstract:** In 2015 the California State University system launched Graduation Initiative 2025
 which aims to eliminate the equity gaps in degree completion and increase the average four-year
 graduation rate from 19% to 40% and the average six-year graduation rate from 57% to 70%. To
 support CSULB in meeting these goals, this study focuses on performing a multivariate
