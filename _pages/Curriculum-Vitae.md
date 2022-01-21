@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="files/Yale_Quan_CV_github.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<object data="files/Yale_Quan_CV_github.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 You can download a PDF copy of my CV [here](http://yalequan.github.io/files/Clustering_Education_Data.pdf).
