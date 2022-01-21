@@ -2,7 +2,6 @@
 title: "A Multivariate Statistical Analysis of Major Change Patterns and Significant Factors That Influence Graduation Rates: A Case Study at California State University, Long Beach"
 collection: talks
 type: "Presentation"
-permalink: /talks/Beyond_First_Year
 venue: "Beyond the First Year"
 date: 2020-11-17
 location: "California State University, Long Beach"
