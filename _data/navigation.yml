@@ -6,8 +6,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Tableau Portfolio [Opens a new website in this window]"
-    url: https://public.tableau.com/profile/yale.quan#!/
+  - title: "Research and Projects"
+    url: /portfolio/
 
   - title: "CV [Opens a PDF in this window]"
     url: /files/Yale_Quan_CV_github.pdf
