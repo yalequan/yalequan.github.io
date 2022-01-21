@@ -7,4 +7,5 @@ author_profile: true
 
 <iframe src="/files/Yale_Quan_CV_github.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-You can download a PDF copy of my CV [here](/files/Yale_Quan_CV_github.pdf).
+You can download a PDF copy of my CV [here](http://yalequan.github.io/files/Clustering_Education_Data.pdf)
+).
