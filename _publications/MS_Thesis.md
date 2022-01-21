@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/MS_Thesis
 date: 2020-12-01
 venue: 'ProQuest Dissertations'
-paperurl: '/files/Quan_2020_A_Multivariate_Statistical_Analysis_of_Major_Change_Patterns_and_Significant_Factors_That_Influence_Graduation_Rates.pdf'
 link: 'https://www.proquest.com/openview/9b14020133c902798cb4cce48cb1e8d2/1?pq-origsite=gscholar&cbl=18750&diss=y'
 citation: 'Quan, YB. (2020). &quot;A Multivariate Statistical Analysis of Major Change Patterns and Significant Factors That Influence Graduation Rates: A Case Study at California State University, Long Beach&quot; (Publication No. 28155286)[Masters thesis, California State University, Long Beach.] ProQuest Dissertations and Theses database.'
 ---
