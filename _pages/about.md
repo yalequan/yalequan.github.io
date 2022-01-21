@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website"
+title: "About Me - Yale Quan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
