@@ -12,14 +12,14 @@ Below is a chronological list of my teaching experience along with a brief descr
 
 ## Course: PSYCH 209 - Fundamentals of Psychological Research
 
-Teach up to 100 undergraduate students per quarter. Students enrolled in this course are either ap- plying into the psychology major or preparing to undertake research within the department. Course content covers psychological research methodology and techniques. Topics include the logic of hypoth- esis testing, experimental design, research strategies and techniques, fundamentals of scientific writing, search and evaluation of research literature in psychology, and ethical issues in psychological research.
+Teach up to 100 undergraduate students per quarter. Students enrolled in this course are either applying into the psychology major or preparing to undertake research within the department. Course content covers psychological research methodology and techniques. Topics include the logic of hypothesis testing, experimental design, research strategies and techniques, fundamentals of scientific writing, search and evaluation of research literature in psychology, and ethical issues in psychological research.
 
 # Lecturer, California State University, Long Beach
 *Department of Mathematics and Statistics*
 
 ## Course: STAT 108 - Statistics for Everyday Life
 
-Taught large lecture and 1 activity section. Collaborated with a team of lecturers and professors to up- date course material and discuss learning objectives. Course content includes exploratory data analysis, methods of visualizing data, descriptive statistics, misuse and manipulation of data in statistical analy- sis, probability, binomial and normal distributions, confidence intervals, hypothesis testing, correlation and regression, contingency tables.
+Taught large lecture and 1 activity section. Collaborated with a team of lecturers and professors to update course material and discuss learning objectives. Course content includes exploratory data analysis, methods of visualizing data, descriptive statistics, misuse and manipulation of data in statistical analysis, probability, binomial and normal distributions, confidence intervals, hypothesis testing, correlation and regression, contingency tables.
 
 # Graduate Teaching Associate, California State University, Long Beach
 *Department of Mathematics and Statistics*
@@ -29,7 +29,7 @@ Wrote weekly lesson plans and solutions for all STAT 108 activity sections. Less
 
 ## Course: MATH 112B - Essential Algebra B
 
-Assisted with the development and implementation during the first semester this course was implemented. Developed lesson plans that connected the new Geometry material taught in activity sections to the Algebra concepts covered in large lecture. Lessons consisted of a combination of think-pair-share, modeling, individual, and group work. Taught 4-5 activity sections per semester with 25-30 undergrad- uate students per section. Students were primarily STEM majors. Attended lecture 2 times per week and answered questions asked during lecture. Held 2hrs of office hours per week.
+Assisted with the development and implementation during the first semester this course was implemented. Developed lesson plans that connected the new Geometry material taught in activity sections to the Algebra concepts covered in large lecture. Lessons consisted of a combination of think-pair-share, modeling, individual, and group work. Taught 4-5 activity sections per semester with 25-30 undergraduate students per section. Students were primarily STEM majors. Attended lecture 2 times per week and answered questions asked during lecture. Held 2hrs of office hours per week.
 
 ## Course: MATH 104/94 - The Power of Mathematics
 
