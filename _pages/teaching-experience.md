@@ -45,4 +45,4 @@ Taught 1 supplemental instruction section. Wrote and implemented lesson plans th
 
 Taught 1 supplemental instruction section. Wrote and implemented lesson plans that reinforced and extends material covered in lecture.  Held weekly office hours by appointment.  Attend weekly lecture.  Lessons were primarily lecture focused with sparse group work.
 
-* Instructor of Record
+\* Instructor of Record
