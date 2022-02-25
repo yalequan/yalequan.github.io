@@ -9,7 +9,7 @@ This page is a collection of research and projects that are either in-progress o
 
 ## Teacher Retention in Washington, An Event History Analysis - 2022
 
-*In progress* An analysis of teacher retention from 2017-2020 in Washington using data publicly available from the Washington State Office of Superintendent of Public Instruction (OSPI). Specifically the OSPI S-275 datasets for each year were merged with other publicly available OSPI datasets to create a comprehensive public dataset of Washington teachers. Methodology primarily consisted on non-parametric modeling techniques including Life Tables, and modeling teacher retention using time-varying covariates and coefficients in a Cox regression model. 
+*In progress* An analysis of teacher retention from 2017-2020 in Washington using data publicly available from the Washington State Office of Superintendent of Public Instruction (OSPI). Specifically the OSPI S-275 datasets for each year were merged with other publicly available OSPI datasets to create a comprehensive public dataset of Washington teachers. Methodology primarily consisted on non-parametric modeling techniques including Life Tables, and using time-varying covariates and coefficients in a Cox regression model. 
 
 ## An Item Response Theory Analysis of Biology Freshman Survey - 2022
 
