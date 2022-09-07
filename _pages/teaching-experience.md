@@ -10,6 +10,10 @@ Below is a chronological list of my teaching experience along with a brief descr
 
 # Teaching Assistant, University of Washington
 
+## Course: EDPSY 490 – Basic Educational Statistics
+
+Held weekly office hours and assisted with grading and administering exams and quizzes. Responsible for managing course gradebook and assisting with course communication. Course content covers measurement scales, sampling distributions, confidence intervals, 1- and 2-group z/t/chi-square tests, and simple linear regression. 
+
 ## Course: PSYCH 209 - Fundamentals of Psychological Research
 
 Teach up to 100 undergraduate students per quarter. Students enrolled in this course are either applying into the psychology major or preparing to undertake research within the department. Course content covers psychological research methodology and techniques. Topics include the logic of hypothesis testing, experimental design, research strategies and techniques, fundamentals of scientific writing, search and evaluation of research literature in psychology, and ethical issues in psychological research.
