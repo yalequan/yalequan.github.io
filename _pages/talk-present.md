@@ -5,16 +5,8 @@ permalink: /talk-present/
 author_profile: true
 ---
 
-This page is a collection of talks and presentations I have given on my research and projects. 
+Liu, A., Liu, L., Nguyen, J., **Quan, Y.B.** (2022, March 11) *Quantitative Inquiry* [Poster presentation]. EDLPS 526 Educational Inquiry: End of Quarter Poster Presentation. https://tinyurl.com/2p86jfwk
 
-## Clustering Education Data Using K-Medoids and PAM
+**Quan, Y.B.** (2021, November). *Clustering Education Data Using K-Medoids with Partitioning Around the Medoids Algorithm* [Seminar Presentation]. Measurement & Statistics Seminar, University of Washington. Seattle, WA, United States.
 
-Presented the results of my research on clustering education data using K-Medoids and the Partitioning Around the Medoid algorithm (Kaufman & Rosseeuw, 2009).
-
-Given at Measurement & Statistics Seminar at University of Washington. December 3 2021.
-
-## A Multivariate Statistical Analysis of Major Change Patterns and Significant Factors That Influence Graduation Rates: A Case Study at California State University, Long Beach
-
-Presented the results of my research to a committee of various stakeholders on campus working on ways to improve students' first two years of experiences.
-
-Given at Beyond the First Year at California State University, Long Beach. November 17, 2020
+**Quan, Y. B.** (2020, November). *A Multivariate Statistical Analysis of Major Change Patterns and Significant Factors That Influence Graduation Rates: A Case Study at California State University, Long Beach* [Paper presentation]. Beyond the First Year. Long Beach, CA, United States.
