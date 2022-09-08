@@ -9,6 +9,7 @@ Below is a chronological list of my teaching experience along with a brief descr
 
 
 # Teaching Assistant, University of Washington
+*College of Arts and Sciences, Department of Psychology; College of Education - Educational Psychology*
 
 ## Course: EDPSY 490 – Basic Educational Statistics
 
