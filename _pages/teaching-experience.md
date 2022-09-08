@@ -7,13 +7,12 @@ author_profile: true
 
 Below is a chronological list of my teaching experience along with a brief description. 
 
-
 # Teaching Assistant, University of Washington
 *College of Arts and Sciences, Department of Psychology; College of Education - Educational Psychology*
 
 ## Course: EDPSY 490 – Basic Educational Statistics
 
-Held weekly office hours and assisted with grading and administering exams and quizzes. Responsible for managing course gradebook and assisting with course communication. Course content covers measurement scales, sampling distributions, confidence intervals, 1- and 2-group z/t/chi-square tests, and simple linear regression. 
+Held weekly office hours and assisted with grading and administering exams and quizzes. Responsible for managing course gradebook and assisting with course communication. Course content covers measurement scales, sampling distributions, confidence intervals, 1- and 2-group z/t/chi-square tests, and simple linear regression.
 
 ## Course: PSYCH 209 - Fundamentals of Psychological Research
 

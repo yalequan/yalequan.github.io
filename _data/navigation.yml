@@ -3,11 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks and Presentation"
+  - title: "Research"
+    url: /research/ 
+
+  - title: "Talks and Presentations"
     url: /talk-present/    
 
-  - title: "Research and Projects"
-    url: /research-projects/
+  - title: "Projects"
+    url: /projects/
 
   - title: "Teaching"
     url: /teaching-experience/
