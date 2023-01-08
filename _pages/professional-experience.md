@@ -1,10 +1,3 @@
----
-layout: archive
-title: "Teaching Experience"
-permalink: /teaching-experience/
-author_profile: true
----
-
 Below is a chronological list of my teaching experience along with a brief description. 
 
 # Teaching Assistant, University of Washington
