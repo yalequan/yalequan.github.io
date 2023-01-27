@@ -14,7 +14,7 @@ Performed a reliability and validity study of assessments administered to Spring
 A proposed evaluation of ESSHB 1546 (commonly known as Running Start) was drafted to respond for a Request for Proposals from The WT Grant Foundation. Our proposal suggested using a mixed methods evaluation consisting of qualitative and quantitative methods to evaluate how Running Start addresses the existing higher education opportunity gap and to suggest further ways to support historically marginalized students in Washington.
 
 
-## CS&SS Event History Analysis - Teacher Retention in Washington, An Event History Analysis
+## CS&SS 544 Event History Analysis - Teacher Retention in Washington, An Event History Analysis
 
 An analysis of teacher retention from 2017-2020 in Washington using data publicly available from the Washington State Office of Superintendent of Public Instruction (OSPI). Specifically the OSPI S-275 datasets for each year were merged with other publicly available OSPI datasets to create a comprehensive public dataset of Washington teachers. Methodology primarily consisted on non-parametric modeling techniques including Life Tables, and using time-varying covariates and coefficients in a Cox regression model.
 
