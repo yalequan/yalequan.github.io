@@ -5,6 +5,14 @@ permalink: /projects/
 author_profile: true
 ---
 
+## EDPSY 558 Generalizability Theory – Using Generalizability Theory with Continuous Latent Random Variables
+Presented research on performing Generalizability and Decisions studies with Continuous Latent Random Variables. An initial simulation study was performed using GENOVA and replicated using CFA using observed data and then as a realization of a Continuous Latent Random Variable using the lavaan package in R. The simulation study confirmed that GENOVA and CFA provide identical results when using the observed data. However, treating the data as a realization of a Continuous Latent Random Variable results in significantly different results.
+
+
+## EDPSY 592 Item Response Theory II – An Introduction to Longitudinal Item Response Theory Analysis Using a Two-Tier Item Response Theory Model
+Researched and developed a simulation study on performing a longitudinal item response theory analysis utilizing a two-tier longitudinal item response theory model. This research was used to develop a presentation, with accompanying R code, that can be used to introduce researchers to longitudinal item response theory analysis.
+
+
 ## EDPSY 539 Classical Test Theory - A Reliability and Validity Study of EPDSY 490 Spring 2022
 
 Performed a reliability and validity study of assessments administered to Spring 2022 EPDSY 490 students. The goal of this project was to determine if (1) The assessment was a reliable measure of the course content, (2) Determine what, if any, biases may be present in the assessment, and (3) Study the construct validity of the assessment and its underlying factor structure. Methodology primarily consisted of Exploratory Factor Analysis, Chronbach’s Alpha, and applications of Classical Test Theory methodology. Analysis was performed using R and SPSS.
