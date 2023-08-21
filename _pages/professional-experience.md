@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### American Educational Research Association 
-* 2023 - Paper Prposal Reviewer Division D Measurement and Research Methodology
+* 2023 - Paper Proposal Reviewer Division D Measurement and Research Methodology
   * Educational Measurement, Psychometrics
   * Quantitative Methods and Statistical Theory
 
