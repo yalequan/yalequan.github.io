@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yale Quan"
-  avatar           : "profile.png"
+  avatar           : "{{ site.baseurl }}/files/profile.png"
   bio              : "Ph.D. student in Measurement & Statistics at University of Washington Seattle."
   location         : "Seattle, WA"
   employer         :
