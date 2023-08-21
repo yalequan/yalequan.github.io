@@ -5,8 +5,14 @@ permalink: /professional-experience/
 author_profile: true
 ---
 
+### American Educational Research Association 
+* 2023 - Paper Prposal Reviewer Division D Measurement and Research Methodology
+  * Educational Measurement, Psychometrics
+  * Quantitative Methods and Statistical Theory
+
 ### Journal of Educational Measurement
 * 2023 - Reviewer 
 
 ### National Council on Measurement in Education (NCME)
-* 2022 - Training Proposal Reviewer for 2023 conference
+* 2023 - Training Proposal Reviewer
+
