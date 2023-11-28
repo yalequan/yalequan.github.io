@@ -5,9 +5,9 @@ permalink: /publications_and_presentations/
 author_profile: true
 ---
 
-**Quan, Y. B.**, & Wang, C. (2022) Effects of Sample Size and Collapse Direction on Parameter Recovery [Paper accepted for presentation] National Council on Measurement in Education: Chicago, IL, United Sates
+**Quan, Y. B.**, & Wang, C. (2022) Collapsing Categories; Its Effects on Parameter Recovery, Data-Model Fit, and Recommendations for Practitioners [Paper accepted for presentation] American Educational Research Association: Philadelphia, PA, United Sates
 
-Liu, A., Liu, L., Nguyen, J., **Quan, Y.B.** (2022, March 11) *Quantitative Inquiry* [Poster presentation]. EDLPS 526 Educational Inquiry: End of Quarter Poster Presentation. https://tinyurl.com/2p86jfwk
+**Quan, Y. B.**, & Wang, C. (2022) Effects of Sample Size and Collapse Direction on Parameter Recovery [Paper accepted for presentation] National Council on Measurement in Education: Chicago, IL, United Sates
 
 **Quan, Y.B.** (2021, November). *Clustering Education Data Using K-Medoids with Partitioning Around the Medoids Algorithm* [Seminar Presentation]. Measurement & Statistics Seminar, University of Washington. Seattle, WA, United States.
 
