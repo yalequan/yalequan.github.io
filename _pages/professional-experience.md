@@ -5,7 +5,7 @@ permalink: /professional-experience/
 author_profile: true
 ---
 
-### American Educational Research Association 
+### American Educational Research Association (AERA)
 * 2023 - Paper Proposal Reviewer Division D Measurement and Research Methodology
   * Educational Measurement, Psychometrics
   * Quantitative Methods and Statistical Theory
