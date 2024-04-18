@@ -5,6 +5,10 @@ permalink: /projects/
 author_profile: true
 ---
 
+## EDLPS 560 - Education Policy and Practice - (In)Effective Instructional Decision-Making with Imperfect Information
+Using an imperfect information framework, I explored how the 2015 Every Student Succeeds Act provides imperfect information to teachers on best practices to address student learning needs. I proposed that a *continuous feedback* assessment system be researched to determine if incorporating new technology into assessments can improve effective teacher instructional decision making by providing (as close as possible) real-time feedback on student decision making, ability measurements, and problem-solving methods.  Potential research into a continuous feedback assessment system using large scale assessment process data and machine learning methodology are also discussed.
+
+
 ## EDPSY 558 Generalizability Theory – Using Generalizability Theory with Continuous Latent Random Variables
 Presented research on performing Generalizability and Decisions studies with Continuous Latent Random Variables. An initial simulation study was performed using GENOVA and replicated using CFA using observed data and then as a realization of a Continuous Latent Random Variable using the lavaan package in R. The simulation study confirmed that GENOVA and CFA provide identical results when using the observed data. However, treating the data as a realization of a Continuous Latent Random Variable results in significantly different results.
 
