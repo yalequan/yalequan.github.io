@@ -1,18 +1,15 @@
 # main links links
 main:
-  - title: "Publications and Presentations"
+  - title: "Selected Publications and Presentations"
     url: /publications_and_presentations/
 
   - title: "Research"
     url: /research/ 
 
-  - title: "Projects"
-    url: /projects/
-
-  - title: "Teaching"
+    - title: "Teaching"
     url: /teaching-experience/
 
-  - title: "Professional Experience"
+  - title: "Professional Service"
     url: /professional-experience/
 
   - title: "CV"
