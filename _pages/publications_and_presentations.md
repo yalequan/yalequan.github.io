@@ -11,7 +11,7 @@ author_profile: true
 
 1. **Quan, Y.**, & Wang, C. (In Press) Collapsing or not? A Practical Guide to Handling Sparse Responses for Polytomous Items. Methodology
 
-2. **Quan, Y.**, Sager, M. (2025, February 17-20) Identifying Core Formal Assessment Competencies and Informal Learning Outcomes of Data Science and Data Literacy [Paper Presentation]. Data Science Education K-12: Research to Practice Annual Conference
+2. **Quan, Y.**, Sager, M. (2025, February 17-20) Identifying Core Formal Assessment Competencies and Informal Learning Outcomes of Data Science and Data Literacy [Paper Presentation]. Data Science Education K-12: Research to Practice Annual Conference <a href="yalequan.github.io/files/Quan_Sager_DS4E_Conference.pdf" target="_blank">PDF.</a>
 
 3. **Quan, Y.**, & Ren, H. (2024, December 4) Sample Size and Test Length Recommendations for the Diagnostic Facet Status Model [Paper Presentation]. Center for Statistics and The Social Sciences Student Research Presentation, Seattle, WA, United States.
 
