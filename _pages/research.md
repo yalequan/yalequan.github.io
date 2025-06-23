@@ -13,7 +13,7 @@ Examined the psychometric validity and reliability of the student belonging surv
 
 Projects:
 - Developing an Equitable Machine Learning Algorithm to Identify Students at Risk of Chronic Absenteesim
-- Equitible Classification of At Risk Students. A Comparision of Total Score and Latent Score Cutoffs.
+- Psychometric Classification of At Risk Students. A Comparision of Total Score and Latent Score Cutoffs.
 - Predicting Advanced Course Taking Success from Measures of Student Belonging
 - Using Categorical Structural Equation Models to Identify Facets of Student Belonging.
 - Reliable Measurement of Student Belonging. A Reliability and Validity Study of a Student Belonging Survey.
