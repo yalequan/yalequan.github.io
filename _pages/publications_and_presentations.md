@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 1.	Quan, Y., & Wang, C. (2025). Collapsing or Not? A Practical Guide to Handling Sparse 
-Responses for Polytomous Items. Methodology, 21(1), 46-73. https://doi.org/10.5964/meth.14303 
+Responses for Polytomous Items. Methodology, 21(1), 46-73. <a href="https://doi.org/10.5964/meth.14303">https://doi.org/10.5964/meth.14303</a>
 
 2.	Quan, Y., & Wang. C. (2025, July 15-18) A Neural Network Approach To Small Sample Intersectional 
 DIF Detection [Paper Presentation]. Annual International Meeting of the Psychometric Society (IMPS), Minneapolis, MN, USA
@@ -30,7 +30,7 @@ For Binary Predictions with Incomplete, Imbalanced Data and Non-Linear Effects [
 10.	Quan, Y., & Wang, C. (2024, April 11-14) Parameter Recovery from Higher Order Item Response Theory Models with Structural Missingness [Paper Presentation]. National Council on Measurement in Education 2024 Annual Meeting, Philadelphia, PA, United States
 
 11.	Quan, Y., & Wang, C. (2024, April 11-14) Collapsing or not? A Practical Guide to Handling 
-Sparse Responses for Polytomous Items, [Poster Presentation, Paper Presentation], American Educational Research Association Annual Meeting, Philadelphia, PA, United States. https://doi.org/10.3102/2102869  
+Sparse Responses for Polytomous Items, [Poster Presentation, Paper Presentation], American Educational Research Association Annual Meeting, Philadelphia, PA, United States. <a href="https://doi.org/10.3102/2102869">https://doi.org/10.3102/2102869</a>
 
 12.	Quan, Y., & Xiao, T. (2024, March 11) The Effects of Measurement Error on Multilevel 
 Linear Growth Model Parameter Estimates, [Paper Presentation]. Center for Statistics and The Social Sciences Student Research Presentation, Seattle, WA, United States.
@@ -41,7 +41,7 @@ on Parameter Recovery [Poster Presentation]. National Council on Measurement in 
 14.	Quan, Y. (2021, December 3). Clustering Education Data Using K-Medoids with Partitioning Around the Medoids Algorithm [Seminar Presentation]. Measurement & Statistics Seminar, University of Washington. Seattle, WA, United States
 
 15.	Quan, Y. (2020). A Multivariate Statistical Analysis of Major Change Patterns and Significant
-Factors That Influence Graduation Rates: A Case Study at California State University, Long Beach (Publication No. 28155286) [Master's Thesis, California State University Long Beach]. ProQuest Dissertations and Theses Global. https://www.proquest.com/dissertations-theses/multivariate-statistical-analysis-major-change/docview/2519029245/se-2
+Factors That Influence Graduation Rates: A Case Study at California State University, Long Beach (Publication No. 28155286) [Master's Thesis, California State University Long Beach]. ProQuest Dissertations and Theses Global. <a href="https://www.proquest.com/dissertations-theses/multivariate-statistical-analysis-major-change/docview/2519029245/se-2">https://www.proquest.com/dissertations-theses/multivariate-statistical-analysis-major-change/docview/2519029245/se-2</a>
 
 
 MANUSCRIPTS UNDER REVIEW AND IN PREPERATION
