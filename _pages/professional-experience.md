@@ -12,7 +12,6 @@ author_profile: true
   * Quantitative Methods and Statistical Theory
   * Critical Quantitative Methodologies
 
-
 ### Journal of Educational Measurement
 * 2023 - Present: Reviewer 
 
