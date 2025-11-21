@@ -19,10 +19,10 @@ Intersectional DIF with Small Sample Sizes. *PsyArXiv*. <a href="https://doi.org
 
 5.	**Quan, Y.**, & Ren, H. (2025). Sample Size and Assessment Length Recommendations for the Diagnostic Status Facet Model. *PsyArXiv*. <a href="https://doi.org/10.31234/osf.io/zr3je_v1">https://doi.org/10.31234/osf.io/zr3je_v1</a>
 
-6.	**Quan, Y.**, & Wang, C. (2024, April 8-11) *Beyond DIF Detection: A Downstream Clustering 
+6.	**Quan, Y.**, & Wang, C. (2026, April 8-11) *Beyond DIF Detection: A Downstream Clustering 
 Framework for Small Sample Parameter Estimation* [Paper Presentation]. National Council on Measurement in Education 2026 Annual Meeting, Los Angeles, CA, United States
 
-7.	**Quan, Y.**, & Wang, C. (2024, April 8-11) *Advancing Diagnostic Models for Fair and Insightful 
+7.	**Quan, Y.**, & Wang, C. (2026, April 8-11) *Advancing Diagnostic Models for Fair and Insightful 
 Educational Action* [Paper Presentation]. National Council on Measurement in Education 2026 Annual Meeting, Los Angeles, CA, United States
 
 8.	**Quan, Y.**, & Wang. C. (2025, July 15-18) *A Neural Network Approach to Small Sample 
