@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Publications and Presentations"
+permalink: /publications_and_presentations/
+author_profile: true
+---
+
 PRESENTATIONS AND PUBLICATIONS
 
 1.	**Quan, Y.**, & Wang, C. (2025). Collapsing or Not? A Practical Guide to Handling Sparse 
