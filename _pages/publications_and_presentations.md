@@ -5,16 +5,16 @@ permalink: /publications_and_presentations/
 author_profile: true
 ---
 
-1.	**Quan, Y.**, & Wang, C. (2025). Collapsing or Not? A Practical Guide to Handling Sparse 
+1. **Quan, Y.**, & Wang, C. (2026). Calibrating Multidimensional Assessments with 
+Structural Missingness, An Application of a Multiple-Group Higher-Order IRT Model. *Applied Psychological Methods*. <a href="https://doi.org/10.1177/01466216251415011  ">https://doi.org/10.1177/0146621625141501  </a>
+
+2. **Quan, Y.**, & Wang, C. (2025). Collapsing or Not? A Practical Guide to Handling Sparse 
 Responses for Polytomous Items. *Methodology, 21*(1), 46-73. <a href="https://doi.org/10.5964/meth.14303">https://https://doi.org/10.5964/meth.14303</a>
 
-2.	Parker, M., Ciou, S.Y., **Quan, Y.**, Ren, H., Wang, C., & Li, M. (2025) Investigating 
+3. Parker, M., Ciou, S.Y., **Quan, Y.**, Ren, H., Wang, C., & Li, M. (2025) Investigating 
 Answer Choice Bias within a College-Level Introductory Computing Assessment. *SIGCSE 2026*. <a href="https://doi.org/10.1145/3770762.3772622">https://doi.org/10.1145/3770762.3772622</a>
 
-3.	**Quan, Y.**, & Wang, C. (In Press) Calibrating Multidimensional Assessments with 
-Structural Missingness, An Application of a Multiple-Group Higher-Order IRT Model. *Applied Psychological Methods*
-
-4.	**Quan, Y.**, & Wang, C. (2025). Using Multi-label Classification Neural Network to Detect 
+4. **Quan, Y.**, & Wang, C. (2025). Using Multi-label Classification Neural Network to Detect 
 Intersectional DIF with Small Sample Sizes. *PsyArXiv*. <a href="https://doi.org/10.31234/osf.io/rftyg_v2">https://doi.org/10.31234/osf.io/rftyg_v2</a>
 
 5.	**Quan, Y.**, & Ren, H. (2025). Sample Size and Assessment Length Recommendations for the Diagnostic Status Facet Model. *PsyArXiv*. <a href="https://doi.org/10.31234/osf.io/zr3je_v1">https://doi.org/10.31234/osf.io/zr3je_v1</a>
