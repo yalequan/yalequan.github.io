@@ -86,7 +86,7 @@ author:
   location         : "Seattle, WA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=1JAU4QMAAAAJ&view_op=list_works&gmla=AJsN-F7EHZ8o_t3gQOmYq4TbNMLZbX3hm9e_dHAhYkswgTj7MFHJTReIAeZVfP2VOeZq8OE79Ht9bedDOQZk07lfugMZTe2D61VZDYkaWO3MJngaOdnWTNs"
+  googlescholar    : "https://scholar.google.com/citations?user=1JAU4QMAAAAJ&hl=en"
   email            : "yalequan@uw.edu"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   #uri              :
@@ -96,14 +96,14 @@ author:
   #flickr           :
   #facebook         :
   #foursquare       :
-  #github           : "academicpages"
+  github           : "https://github.com/yalequan"
   #google_plus      :
   #keybase          :
   #instagram        :
   #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   #lastfm           :
   linkedin         : "yalequan"
-  #orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-8582-7749"
   #pinterest        :
   #soundcloud       :
   #stackoverflow    : # http://stackoverflow.com/users/123456/username
