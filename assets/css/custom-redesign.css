@@ -1,0 +1,306 @@
+/* ============================================
+   CUSTOM REDESIGN FOR YALEQUAN.GITHUB.IO
+   Warmer colors & better typography
+   ============================================ */
+
+/* ==========================================
+   COLOR PALETTE - Warm Academic
+   ========================================== */
+:root {
+  /* Warm neutrals instead of cold grays */
+  --warm-white: #fdfcfb;
+  --warm-bg: #f8f6f4;
+  --warm-gray-100: #e8e4e0;
+  --warm-gray-200: #d4cfc9;
+  --warm-gray-300: #a39b92;
+  --warm-gray-400: #6b6560;
+  
+  /* Accent colors - warm earth tones */
+  --primary-warm: #c17d5f;        /* Terracotta/rust */
+  --primary-dark: #8f5b45;
+  --secondary-warm: #7a9d7e;      /* Sage green */
+  --accent-gold: #d4a574;         /* Warm gold */
+  --accent-blue: #5b8fa3;         /* Muted teal-blue */
+  
+  /* Text colors */
+  --text-primary: #2d2926;
+  --text-secondary: #5a5450;
+  --text-muted: #8e8681;
+  
+  /* Link colors */
+  --link-color: #8f5b45;
+  --link-hover: #c17d5f;
+}
+
+/* ==========================================
+   TYPOGRAPHY IMPROVEMENTS
+   ========================================== */
+
+/* Better font stack with warmer feel */
+body {
+  font-family: 'Inter', 'Helvetica Neue', -apple-system, BlinkMacSystemFont, 
+               'Segoe UI', Roboto, Arial, sans-serif;
+  color: var(--text-primary) !important;
+  background-color: var(--warm-bg) !important;
+  line-height: 1.7;
+  font-size: 17px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Headings with better hierarchy */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Charter', 'Georgia', 'Times New Roman', serif;
+  font-weight: 600;
+  color: var(--text-primary) !important;
+  letter-spacing: -0.02em;
+  line-height: 1.3;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
+  color: var(--primary-dark) !important;
+}
+
+h3 {
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Better paragraph spacing */
+p {
+  margin-bottom: 1.5rem;
+  color: var(--text-secondary);
+  max-width: 70ch; /* Optimal reading width */
+}
+
+/* ==========================================
+   LAYOUT & STRUCTURE
+   ========================================== */
+
+/* Warm up the main content area */
+.page__content,
+.archive {
+  background-color: var(--warm-white) !important;
+  padding: 2.5rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(45, 41, 38, 0.04);
+}
+
+/* Sidebar improvements */
+.sidebar {
+  background-color: var(--warm-bg) !important;
+  border-right: 1px solid var(--warm-gray-100) !important;
+}
+
+.author__avatar img {
+  border: 3px solid var(--warm-gray-100);
+  box-shadow: 0 4px 12px rgba(45, 41, 38, 0.08);
+}
+
+.author__name {
+  color: var(--text-primary) !important;
+  font-size: 1.4rem !important;
+  font-weight: 600 !important;
+  margin-top: 1rem !important;
+}
+
+.author__bio {
+  color: var(--text-secondary) !important;
+  font-size: 1rem !important;
+  line-height: 1.6 !important;
+}
+
+/* ==========================================
+   NAVIGATION
+   ========================================== */
+
+.masthead {
+  background-color: var(--warm-white) !important;
+  border-bottom: 2px solid var(--warm-gray-100) !important;
+  box-shadow: 0 2px 4px rgba(45, 41, 38, 0.03);
+}
+
+.greedy-nav a {
+  color: var(--text-primary) !important;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.greedy-nav a:hover,
+.greedy-nav .visible-links a:hover {
+  color: var(--link-hover) !important;
+}
+
+.greedy-nav .visible-links a::after {
+  background: var(--primary-warm) !important;
+}
+
+/* ==========================================
+   LINKS & BUTTONS
+   ========================================== */
+
+a {
+  color: var(--link-color) !important;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  border-bottom: 1px solid transparent;
+}
+
+a:hover {
+  color: var(--link-hover) !important;
+  border-bottom-color: var(--link-hover);
+}
+
+/* Social media icons */
+.author__urls a {
+  color: var(--text-secondary) !important;
+  transition: all 0.2s ease;
+}
+
+.author__urls a:hover {
+  color: var(--primary-warm) !important;
+  transform: translateY(-2px);
+}
+
+/* ==========================================
+   CONTENT SECTIONS
+   ========================================== */
+
+/* Publications list */
+.archive__item-title {
+  color: var(--text-primary) !important;
+  font-family: 'Charter', 'Georgia', serif;
+  font-size: 1.25rem !important;
+  margin-bottom: 0.5rem !important;
+}
+
+.archive__item-excerpt {
+  color: var(--text-secondary) !important;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+/* Add subtle hover effect to list items */
+.archive__item {
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+}
+
+.archive__item:hover {
+  background-color: var(--warm-bg);
+  transform: translateX(4px);
+}
+
+/* ==========================================
+   FOOTER
+   ========================================== */
+
+.page__footer {
+  background-color: var(--warm-bg) !important;
+  border-top: 2px solid var(--warm-gray-100) !important;
+  color: var(--text-secondary) !important;
+}
+
+.page__footer-copyright {
+  color: var(--text-muted) !important;
+}
+
+/* ==========================================
+   ACCENTS & DETAILS
+   ========================================== */
+
+/* Add a subtle warm accent to key elements */
+.page__hero--overlay {
+  background-color: var(--primary-warm) !important;
+}
+
+/* Breadcrumbs if used */
+.breadcrumbs a {
+  color: var(--text-muted) !important;
+}
+
+.breadcrumbs a:hover {
+  color: var(--primary-warm) !important;
+}
+
+/* Tags */
+.page__taxonomy-item {
+  background-color: var(--warm-gray-100) !important;
+  color: var(--text-primary) !important;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  padding: 0.25rem 0.75rem;
+  transition: all 0.2s ease;
+}
+
+.page__taxonomy-item:hover {
+  background-color: var(--accent-gold) !important;
+  color: var(--warm-white) !important;
+}
+
+/* ==========================================
+   RESPONSIVE IMPROVEMENTS
+   ========================================== */
+
+@media (max-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+  
+  h1 {
+    font-size: 2rem;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+  }
+  
+  .page__content {
+    padding: 1.5rem;
+  }
+}
+
+/* ==========================================
+   CUSTOM ADDITIONS FOR PERSONALITY
+   ========================================== */
+
+/* Add a subtle gradient to the top of pages */
+.page__hero {
+  background: linear-gradient(135deg, 
+    var(--warm-bg) 0%, 
+    var(--warm-white) 100%) !important;
+}
+
+/* Better focus states for accessibility */
+a:focus,
+button:focus {
+  outline: 2px solid var(--primary-warm);
+  outline-offset: 2px;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Selection color */
+::selection {
+  background-color: var(--accent-gold);
+  color: var(--warm-white);
+}
+
+::-moz-selection {
+  background-color: var(--accent-gold);
+  color: var(--warm-white);
+}
