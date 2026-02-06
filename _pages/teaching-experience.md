@@ -22,8 +22,6 @@ author_profile: true
 			margin-bottom: 2rem;
 			color: var(--text-color);">
 
-My research addresses fundamental questions about educational measurement and assessment in small-sample, many-group contexts:
-
 <p>
 I design my courses to balance conceptual understanding, hands-on problem solving, and collaborative learning. I emphasize inclusive pedagogy and strive to make statistics and mathematics accessible for students from all backgrounds.
 </p>
