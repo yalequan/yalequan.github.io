@@ -7,11 +7,15 @@ author_profile: true
 
 <div style="background-color: var(--warm-bg, #f8f6f4); padding: 1.5rem; border-left: 4px solid var(--primary-warm, #c17d5f); border-radius: 6px; margin-bottom: 2rem;">
 
-<b>Research Focus</b><br> 
+<p>
+<b>Research Focus</b>
+</p>
 
 My research addresses fundamental questions about educational measurement and assessment in small-sample, many-group contexts:
 
+<p>
 <b>How can we design assessments and models that reliably measure student outcomes and support equitable decision-making when data are limited and highly segmented?</b><br> 
+</p>
 
 This question sits at the heart of my work and connects issues of psychometric modeling, predictive analytics, and educational policy.
 
