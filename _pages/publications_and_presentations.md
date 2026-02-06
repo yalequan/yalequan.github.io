@@ -36,11 +36,11 @@ author_profile: true
 ## Journal Articles
 
 <p class="apa-ref">
-  <b>Quan, Y.</b>, & Wang, C. (2026). Calibrating multidimensional assessments with structural missingness: An application of a multiple-group higher-order IRT model. <em>Applied Psychological Measurement</em>. <a href="https://doi.org/10.1177/01466216251415011">
+  <b>Quan, Y.</b>, & Wang, C. (2026). Calibrating multidimensional assessments with structural missingness: An application of a multiple-group higher-order IRT model. <em>Applied Psychological Measurement</em>. <a href="https://doi.org/10.1177/01466216251415011">https://doi.org/10.1177/01466216251415011</a>
 </p>
 
 <p class="apa-ref">
-  <b>Quan, Y.</b>, & Wang, C. (2025). Collapsing or not? A practical guide to handling sparse responses for polytomous items. <em>Methodology, 21</em>(1), 46–73. <a href="https://doi.org/10.5964/meth.14303">
+  <b>Quan, Y.</b>, & Wang, C. (2025). Collapsing or not? A practical guide to handling sparse responses for polytomous items. <em>Methodology, 21</em>(1), 46–73. <a href="https://doi.org/10.5964/meth.14303">https://doi.org/10.5964/meth.14303</a>
 </p>
 
 <p class="apa-ref">
