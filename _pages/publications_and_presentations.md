@@ -7,7 +7,11 @@ author_profile: true
 
 ## Featured Publications
 
-<div style="background-color: var(--warm-bg, #f8f6f4); padding: 0.5rem; border-radius: 8px; margin-bottom: 2rem; border-left: 4px solid var(--primary-warm, #c17d5f);">
+<div style="background-color: var(--warm-bg, #f8f6f4); 
+			padding: 0.5rem; 
+			border-radius: 8px; 
+			margin-bottom: 2rem; 
+			border-left: 4px solid var(--primary-warm, #c17d5f);">
 
 <p class="apa-ref">
   <b>Quan, Y.</b>, & Wang, C. (2025). Collapsing or not? A practical guide to handling sparse responses for polytomous items. <em>Methodology, 21</em>(1), 46–73. <a href="https://doi.org/10.5964/meth.14303">https://doi.org/10.5964/meth.14303</a>
@@ -19,7 +23,11 @@ author_profile: true
 
 </div>
 
-<div style="background-color: var(--warm-bg, #f8f6f4); padding: 0.5rem; border-radius: 8px; margin-bottom: 2rem; border-left: 4px solid var(--primary-warm, #c17d5f);">
+<div style="background-color: var(--warm-bg, #f8f6f4); 
+			padding: 0.5rem; 
+			border-radius: 8px; 
+			margin-bottom: 2rem; 
+			border-left: 4px solid var(--primary-warm, #c17d5f);">
 
 <p class="apa-ref">
   <b>Quan, Y.</b>, & Wang, C. (under review). Using multi-label classification neural networks to detect intersectional DIF. <em>British Journal of Mathematical and Statistical Psychology</em>. <a href="https://doi.org/10.31234/osf.io/rftyg_v2">Preprint</a>

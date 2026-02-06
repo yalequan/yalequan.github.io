@@ -5,7 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
-<div style="background-color: var(--warm-bg, #f8f6f4); padding: 0.5rem; border-left: 4px solid var(--primary-warm, #c17d5f); border-radius: 6px; margin-bottom: 2rem;color: var(--text-color);">
+<div style="background-color: var(--warm-bg, #f8f6f4); 
+			padding: 0.5rem; 
+			border-left: 4px solid var(--primary-warm, #c17d5f); 
+			border-radius: 6px; 
+			margin-bottom: 2rem;
+			color: var(--text-color);">
 
 My research addresses fundamental questions about educational measurement and assessment in small-sample, many-group contexts:
 
