@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div style="background-color: var(--warm-bg, #f8f6f4); 
-            padding: 1.5rem; 
+            padding: 0.5rem; 
             border-left: 4px solid var(--primary-warm, #c17d5f); 
             border-radius: 6px; 
             margin-bottom: 2rem; 
