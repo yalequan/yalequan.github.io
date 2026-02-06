@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<div style="background-color: var(--warm-bg, #f8f6f4); padding: 1.5rem; border-left: 4px solid var(--primary-warm, #c17d5f); border-radius: 6px; margin-bottom: 2rem;">
+<div style="background-color: var(--warm-bg, #f8f6f4); padding: 1.5rem; border-left: 4px solid var(--primary-warm, #c17d5f); border-radius: 6px; margin-bottom: 2rem;color: var(--text-color);">
 
 <p>
 <strong>Research Focus</strong>

@@ -325,6 +325,6 @@ html {
   margin-top: 0.25rem;
   margin-bottom: 0.75rem;
   font-size: 0.95em;
-  color: var(--text-muted);
+  color: var(--text-color);
   line-height: 1.5;
 }
