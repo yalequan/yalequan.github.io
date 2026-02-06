@@ -304,3 +304,27 @@ html {
   background-color: var(--accent-gold);
   color: var(--warm-white);
 }
+
+/* ==========================================
+   APA 7 FORMATTING FOR PUBLICATIONS
+   ========================================== */
+
+/* Hanging indent for APA-style references */
+.apa-ref {
+  padding-left: 2em;
+  text-indent: -2em;
+  margin-bottom: 0.75rem;
+  line-height: 1.5;
+  color: var(--text-secondary);
+  max-width: 75ch;   /* matches your paragraph width aesthetic */
+}
+
+/* Description/abstract-style text under references */
+.pub-desc {
+  margin-left: 2em;
+  margin-top: 0.25rem;
+  margin-bottom: 0.75rem;
+  font-size: 0.95em;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
