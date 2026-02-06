@@ -103,7 +103,4 @@ I am currently exploring methods to improve measurement and modeling in highly s
   <li>Using machine learning and Bayesian methods for Q-Matrix estimation and refinement, to enhance measurement precision.</li>
   <li>Comparing frequentist and Bayesian approaches for modeling sparse responses, to balance data simplification with principled prior modeling.</li>
 </ul>
-
-This work aims to create robust, scalable, and interpretable models that inform equitable educational decisions and high-quality assessment practices.
-
 </div>
