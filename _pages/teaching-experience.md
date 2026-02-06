@@ -5,6 +5,8 @@ permalink: /teaching-experience/
 author_profile: true
 ---
 
+## Teaching Approach
+
 <div style="background-color: var(--warm-bg, #f8f6f4); 
 			padding: 0.5rem; 
 			border-left: 4px solid var(--primary-warm, #c17d5f); 
@@ -12,7 +14,7 @@ author_profile: true
 			margin-bottom: 2rem;
 			color: var(--text-color);">
 
-<h3>Teaching Approach</h3>
+My research addresses fundamental questions about educational measurement and assessment in small-sample, many-group contexts:
 
 <p>
 I design my courses to balance conceptual understanding, hands-on problem solving, and collaborative learning. I emphasize inclusive pedagogy and strive to make statistics and mathematics accessible for students from all backgrounds.
@@ -27,6 +29,7 @@ I incorporate a variety of instructional strategies, including think-pair-share,
 </p>
 
 </div>
+
 
 Below is a chronological list of my teaching experience along with a brief description. 
 
