@@ -12,7 +12,7 @@ author_profile: true
 Examined the psychometric validity and reliability of the student belonging survey and provide recommendations on areas the survey can be improved. Develop and implement advanced statistical methods including linear conditional growth models, multilevel modeling, and structural equation modeling to uncover and understand patterns in student level data to support evidence-based decisions for education policy. Created Tableau dashboards and storyboards that provide insight on equitable distribution of school resources.
 
 Projects:
-- Developing an Equitable Machine Learning Algorithm to Identify Students at Risk of Chronic Absenteesim
+- Developing an Equitable Machine Learning Algorithm to Identify Students at Risk of Chronic Absenteeism
 - Psychometric Classification of At Risk Students. A Comparision of Total Score and Latent Score Cutoffs.
 - Predicting Advanced Course Taking Success from Measures of Student Belonging
 - Using Categorical Structural Equation Models to Identify Facets of Student Belonging.
