@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello and thank you for visiting my website.
+I'm a Ph.D. candidate in Measurement & Statistics in the College of Education at the University of Washington, working under the guidance of Dr. Chun Wang. You can learn more about our research group at UW [here](https://sites.uw.edu/pmetrics/). In Fall 2026, I will join the University of Southern Mississippi as a Tenure-Track Assistant Professor in the Research, Evaluation, Statistics, and Assessment (RESA) program. You can learn more about the RESA Ph.D. program[here](https://www.usm.edu/graduate-programs/educational-research.php).
 
-I am a Ph.D. student in Measurement & Statistics at the University of Washington (UW) College of Education (expected graduation 2026) with Dr. Chun Wang as my advisor. You can learn more about our lab [here](https://sites.uw.edu/pmetrics/). 
 
-My research is motivated by the need for fair and rigorous measurement tools. To meet this need, my primary area of research focuses on developing measurement techniques that integrate explainable machine learning and artificial intelligence methods with cutting edge psychometric models to achieve accurate measurement of key educational constructs, especially tackling the challenges of high-dimensional variables and small sample sizes. My broader research explores barriers in K-12 education, with a focus on critical issues such as student belonging and chronic absenteeism. I also explore applications of psychometric tools to measures constructs in healthcare and psychological research settings.
+My research is motivated by the need for fair and rigorous measurement in complex educational and psychological settings. Methodologically, I develop psychometric models that integrate modern machine learning approaches with item response theory and diagnostic classification models to support culturally responsive measurement. Much of my work focuses on intersectional differential item functioning, small-sample and high-dimensional inference, and many-group measurement invariance. I am particularly interested in using neural networks and graph-based methods to improve DIF detection, parameter estimation, and scoring, with the goal of producing more equitable, interpretable, and practically useful assessment tools.
 
+In my applied work, I collaborate with K–12 schools and community partners to study barriers to student success, with a focus on student belonging and chronic absenteeism. I also apply psychometric and statistical methods to healthcare and psychological research settings, using real-world data to inform both substantive findings and ongoing methodological development.
 
 
