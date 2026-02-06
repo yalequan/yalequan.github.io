@@ -92,14 +92,17 @@ My applied work integrates research with collaboration to influence educational 
 ---
 
 <div style="background-color: var(--warm-bg, #f8f6f4); padding: 1.5rem; border-left: 4px solid var(--primary-warm, #c17d5f); border-radius: 6px; margin-bottom: 2rem;">
-
-<b>Current Work</b>
+<p>
+<b>Current Work:</b>
+</p>
 
 I am currently exploring methods to improve measurement and modeling in highly segmented or sparse data:
 
-- Developing generalizable <em>multilabel classification neural networks</em> to detect differential item functioning (DIF) across many groups, to support equitable assessment practices.  
-- Using <em>machine learning and Bayesian methods</em> for Q-Matrix estimation and refinement, to enhance measurement precision.  
-- Comparing <em>frequentist and Bayesian approaches** for modeling sparse responses </em>, to balance data simplification with principled prior modeling.  
+<ul>
+  <li>Developing generalizable <em>multilabel classification neural networks</em> to detect differential item functioning (DIF) across many groups, to support equitable assessment practices.</li>
+  <li>Using <em>machine learning and Bayesian methods</em> for Q-Matrix estimation and refinement, to enhance measurement precision.</li>
+  <li>Comparing <em>frequentist and Bayesian approaches** for modeling sparse responses </em>, to balance data simplification with principled prior modeling.</li>
+</ul>
 
 This work aims to create robust, scalable, and interpretable models that inform equitable educational decisions and high-quality assessment practices.
 
