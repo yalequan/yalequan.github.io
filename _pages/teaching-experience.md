@@ -1,9 +1,33 @@
 ---
 layout: archive
-title: "Teaching Experience"
+title: 
 permalink: /teaching-experience/
 author_profile: true
 ---
+
+<div style="background-color: var(--warm-bg, #f8f6f4); 
+            padding: 1.5rem; 
+            border-left: 4px solid var(--primary-warm, #c17d5f); 
+            border-radius: 6px; 
+            margin-bottom: 2rem; 
+            color: var(--text-color); 
+            line-height: 1.6;">
+
+<h3>Teaching Approach</h3>
+
+<p>
+I design my courses to balance conceptual understanding, hands-on problem solving, and collaborative learning. I emphasize inclusive pedagogy and strive to make statistics and mathematics accessible for students from all backgrounds.
+</p>
+
+<p>
+My teaching focuses on fostering critical thinking, encouraging active participation, and connecting statistical and mathematical concepts to real-world applications. I aim to help students not only perform calculations but also interpret and communicate results effectively.
+</p>
+
+<p>
+I incorporate a variety of instructional strategies, including think-pair-share, group projects, modeling, and data-driven exercises, to engage students with diverse learning styles and to support equity in the classroom.
+</p>
+
+</div>
 
 Below is a chronological list of my teaching experience along with a brief description. 
 
