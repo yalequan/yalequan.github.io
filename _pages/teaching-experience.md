@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 
+title: false
 permalink: /teaching-experience/
 author_profile: true
 ---

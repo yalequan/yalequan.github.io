@@ -1,6 +1,6 @@
 ---
 layout: archive
-title:
+title: false
 permalink: /publications_and_presentations/
 author_profile: true
 ---
