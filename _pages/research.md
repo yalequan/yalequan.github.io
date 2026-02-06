@@ -1,9 +1,17 @@
 ---
 layout: archive
-title: false
 permalink: /research/
 author_profile: true
 ---
+
+<style>
+.page-title {
+  display: none;
+  margin: 0;
+  padding: 0;
+  height: 0;
+}
+</style>
 
 <div style="background-color: var(--warm-bg, #f8f6f4); 
 			padding: 0.5rem; 

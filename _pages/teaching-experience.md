@@ -1,9 +1,17 @@
 ---
 layout: archive
-title: false
 permalink: /teaching-experience/
 author_profile: true
 ---
+
+<style>
+.page-title {
+  display: none;
+  margin: 0;
+  padding: 0;
+  height: 0;
+}
+</style>
 
 ## Teaching Approach
 

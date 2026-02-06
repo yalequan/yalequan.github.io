@@ -1,9 +1,16 @@
 ---
 layout: archive
-title: false
 permalink: /publications_and_presentations/
 author_profile: true
 ---
+<style>
+.page-title {
+  display: none;
+  margin: 0;
+  padding: 0;
+  height: 0;
+}
+</style>
 
 ## Featured Publications
 
