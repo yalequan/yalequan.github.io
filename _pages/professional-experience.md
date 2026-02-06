@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Professional Service"
-permalink: /professional-experience/
+permalink: /professional-service/
 author_profile: true
 ---
 
