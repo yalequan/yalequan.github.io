@@ -7,11 +7,11 @@ author_profile: true
 
 <div style="background-color: var(--warm-bg, #f8f6f4); padding: 1.5rem; border-left: 4px solid var(--primary-warm, #c17d5f); border-radius: 6px; margin-bottom: 2rem;">
 
-**Research Focus**  
+<b>Research Focus
 
 My research addresses fundamental questions about educational measurement and assessment in small-sample, many-group contexts:
 
-**How can we design assessments and models that reliably measure student outcomes and support equitable decision-making when data are limited and highly segmented?**
+<b>How can we design assessments and models that reliably measure student outcomes and support equitable decision-making when data are limited and highly segmented?</b> 
 
 This question sits at the heart of my work and connects issues of psychometric modeling, predictive analytics, and educational policy.
 
@@ -80,13 +80,13 @@ My applied work integrates research with collaboration to influence educational 
 
 <div style="background-color: var(--warm-bg, #f8f6f4); padding: 1.5rem; border-left: 4px solid var(--primary-warm, #c17d5f); border-radius: 6px; margin-bottom: 2rem;">
 
-**Current Work**  
+<b>Current Work</b>
 
 I am currently exploring methods to improve measurement and modeling in highly segmented or sparse data:
 
-- Developing generalizable **multilabel classification neural networks** to detect differential item functioning (DIF) across many groups, *to support equitable assessment practices*.  
-- Using **machine learning and Bayesian methods** for Q-Matrix estimation and refinement, *to enhance measurement precision*.  
-- Comparing **frequentist and Bayesian approaches** for modeling sparse responses, *to balance data simplification with principled prior modeling*.  
+- Developing generalizable <em>multilabel classification neural networks</em> to detect differential item functioning (DIF) across many groups, to support equitable assessment practices.  
+- Using <em>machine learning and Bayesian methods</em> for Q-Matrix estimation and refinement, to enhance measurement precision.  
+- Comparing <em>frequentist and Bayesian approaches** for modeling sparse responses </em>, to balance data simplification with principled prior modeling.  
 
 This work aims to create robust, scalable, and interpretable models that inform equitable educational decisions and high-quality assessment practices.
 
