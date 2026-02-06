@@ -9,7 +9,7 @@ author_profile: true
 
 <div style="background-color: var(--warm-bg, #f8f6f4); padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; border-left: 4px solid var(--primary-warm, #c17d5f);">
 
-### Collapsing or Not? A Practical Guide to Handling Sparse Responses for Polytomous Items
+Collapsing or Not? A Practical Guide to Handling Sparse Responses for Polytomous Items
 **Quan, Y.**, & Wang, C. (2025). *Methodology, 21*(1), 46-73. <a href="https://doi.org/10.5964/meth.14303">https://doi.org/10.5964/meth.14303</a>
 
 *Simulation study providing guidance on when to collapse response categories in Likert-scale items based on polytomous IRT models.*
@@ -18,7 +18,7 @@ author_profile: true
 
 <div style="background-color: var(--warm-bg, #f8f6f4); padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; border-left: 4px solid var(--primary-warm, #c17d5f);">
 
-### Using Multi-label Classification Neural Networks to Detect Intersectional DIF
+Using Multi-label Classification Neural Networks to Detect Intersectional DIF
 **Quan, Y.**, & Wang, C. (Under Review). *British Journal of Mathematical and Statistical Psychology*. <a href="https://doi.org/10.31234/osf.io/rftyg_v2">Preprint</a>
 
 *Introduces a novel multi-label classification neural network approach to detect differential item functioning across multiple intersecting demographic groups simultaneously, addressing a critical gap in measurement fairness with small sample sizes.*
