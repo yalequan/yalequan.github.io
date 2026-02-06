@@ -10,7 +10,7 @@ author_profile: true
 <div style="background-color: var(--warm-bg, #f8f6f4); padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; border-left: 4px solid var(--primary-warm, #c17d5f);">
 
 <p class="apa-ref">
-  <b>Quan, Y.</b>, & Wang, C. (2025). Collapsing or not? A practical guide to handling sparse responses for polytomous items. <em>Methodology, 21</em>(1), 46–73. https://doi.org/10.5964/meth.14303
+  <b>Quan, Y.</b>, & Wang, C. (2025). Collapsing or not? A practical guide to handling sparse responses for polytomous items. <em>Methodology, 21</em>(1), 46–73. <a href="https://doi.org/10.5964/meth.14303">https://doi.org/10.5964/meth.14303</a>
 </p>
 
 <p class="pub-desc">
@@ -22,7 +22,7 @@ author_profile: true
 <div style="background-color: var(--warm-bg, #f8f6f4); padding: 1.5rem; border-radius: 8px; margin-bottom: 2rem; border-left: 4px solid var(--primary-warm, #c17d5f);">
 
 <p class="apa-ref">
-  <b>Quan, Y.</b>, & Wang, C. (under review). Using multi-label classification neural networks to detect intersectional DIF. <em>British Journal of Mathematical and Statistical Psychology</em>. https://doi.org/10.31234/osf.io/rftyg_v2
+  <b>Quan, Y.</b>, & Wang, C. (under review). Using multi-label classification neural networks to detect intersectional DIF. <em>British Journal of Mathematical and Statistical Psychology</em>. <a href="https://doi.org/10.31234/osf.io/rftyg_v2">Preprint</a>
 </p>
 
 <p class="pub-desc">
@@ -36,15 +36,15 @@ author_profile: true
 ## Journal Articles
 
 <p class="apa-ref">
-  <b>Quan, Y.</b>, & Wang, C. (2026). Calibrating multidimensional assessments with structural missingness: An application of a multiple-group higher-order IRT model. <em>Applied Psychological Measurement</em>. https://doi.org/10.1177/01466216251415011
+  <b>Quan, Y.</b>, & Wang, C. (2026). Calibrating multidimensional assessments with structural missingness: An application of a multiple-group higher-order IRT model. <em>Applied Psychological Measurement</em>. <a href="https://doi.org/10.1177/01466216251415011">
 </p>
 
 <p class="apa-ref">
-  <b>Quan, Y.</b>, & Wang, C. (2025). Collapsing or not? A practical guide to handling sparse responses for polytomous items. <em>Methodology, 21</em>(1), 46–73. https://doi.org/10.5964/meth.14303
+  <b>Quan, Y.</b>, & Wang, C. (2025). Collapsing or not? A practical guide to handling sparse responses for polytomous items. <em>Methodology, 21</em>(1), 46–73. <a href="https://doi.org/10.5964/meth.14303">
 </p>
 
 <p class="apa-ref">
-  Parker, M., Ciou, S. Y., <b>Quan, Y.</b>, Ren, H., Wang, C., & Li, M. (2025). Investigating answer choice bias within a college-level introductory computing assessment. <em>SIGCSE 2026</em>. https://doi.org/10.1145/3770762.3772622
+  Parker, M., Ciou, S. Y., <b>Quan, Y.</b>, Ren, H., Wang, C., & Li, M. (2025). Investigating answer choice bias within a college-level introductory computing assessment. <em>SIGCSE 2026</em>. <a href="https://doi.org/10.1145/3770762.3772622">https://doi.org/10.1145/3770762.3772622</a>
 </p>
 
 ---
@@ -52,7 +52,7 @@ author_profile: true
 ## Manuscripts Under Review & In Preparation
 
 <p class="apa-ref">
-  <b>Quan, Y.</b>, & Wang, C. (under review). Using multi-label classification neural networks to detect intersectional DIF with small sample sizes. <em>British Journal of Mathematical and Statistical Psychology</em>. https://doi.org/10.31234/osf.io/rftyg_v2
+  <b>Quan, Y.</b>, & Wang, C. (under review). Using multi-label classification neural networks to detect intersectional DIF with small sample sizes. <em>British Journal of Mathematical and Statistical Psychology</em>.
 </p>
 
 <p class="apa-ref">
@@ -72,7 +72,7 @@ author_profile: true
 ## Working Papers & Preprints
 
 <p class="apa-ref">
-  <b>Quan, Y.</b>, & Ren, H. (2025). Sample size and assessment length recommendations for the diagnostic status facet model. <em>PsyArXiv</em>. https://doi.org/10.31234/osf.io/zr3je_v1
+  <b>Quan, Y.</b>, & Ren, H. (2025). Sample size and assessment length recommendations for the diagnostic status facet model. <em>PsyArXiv</em>. <a href="https://doi.org/10.31234/osf.io/zr3je_v1">https://doi.org/10.31234/osf.io/zr3je_v1</a>
 </p>
 
 ---
@@ -122,7 +122,7 @@ author_profile: true
 </p>
 
 <p class="apa-ref">
-  <b>Quan, Y.</b>, & Wang, C. (2024, April). Collapsing or not? A practical guide to handling sparse responses for polytomous items. Poster and paper presented at the <em>American Educational Research Association Annual Meeting</em>, Philadelphia, PA. https://doi.org/10.3102/2102869
+  <b>Quan, Y.</b>, & Wang, C. (2024, April). Collapsing or not? A practical guide to handling sparse responses for polytomous items. Poster and paper presented at the <em>American Educational Research Association Annual Meeting</em>, Philadelphia, PA. <a href="https://doi.org/10.3102/2102869">https://doi.org/10.3102/2102869</a>
 </p>
 
 ### 2023
@@ -160,5 +160,5 @@ author_profile: true
 ## Thesis
 
 <p class="apa-ref">
-  <b>Quan, Y.</b> (2020). <em>A multivariate statistical analysis of major change patterns and significant factors that influence graduation rates: A case study at California State University, Long Beach</em> (Publication No. 28155286) [Master’s thesis, California State University, Long Beach]. ProQuest Dissertations and Theses Global. https://www.proquest.com/dissertations-theses/multivariate-statistical-analysis-major-change/docview/2519029245/se-2
+  <b>Quan, Y.</b> (2020). <em>A multivariate statistical analysis of major change patterns and significant factors that influence graduation rates: A case study at California State University, Long Beach</em> (Publication No. 28155286) [Master’s thesis, California State University, Long Beach]. ProQuest Dissertations and Theses Global. <a href="https://www.proquest.com/dissertations-theses/multivariate-statistical-analysis-major-change/docview/2519029245/se-2">https://www.proquest.com/dissertations-theses/multivariate-statistical-analysis-major-change/docview/2519029245/se-2</a>
 </p>
