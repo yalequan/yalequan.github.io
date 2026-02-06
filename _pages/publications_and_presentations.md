@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and Presentation"
 permalink: /publications_and_presentations/
 author_profile: true
 ---
@@ -82,53 +82,49 @@ author_profile: true
 ### 2026
 
 <p class="apa-ref">
-  <b>Quan, Y.</b>, & Wang, C. (2026, April). Beyond DIF detection: A downstream clustering framework for small sample parameter estimation. Paper presented at the <em>National Council on Measurement in Education Annual Meeting</em>, Los Angeles, CA.
+  <b>Quan, Y.</b>, & Wang, C. (2026, April). <em>Beyond DIF detection: A downstream clustering framework for small sample parameter estimation</em> [Paper Presentation]. National Council on Measurement in Education Annual Meeting, Los Angeles, CA.
 </p>
 
 <p class="apa-ref">
-  <b>Quan, Y.</b>, & Wang, C. (2026, April). Detecting small sample Q-matrix misspecification in the diagnostic facet status model. Paper presented at the <em>National Council on Measurement in Education Annual Meeting</em>, Los Angeles, CA.
+  <b>Quan, Y.</b>, & Wang, C. (2026, April). <em>Detecting small sample Q-matrix misspecification in the diagnostic facet status model</em> [Paper Presentation]. National Council on Measurement in Education Annual Meeting, Los Angeles, CA.
 </p>
 
 ### 2025
 
 <p class="apa-ref">
-  <b>Quan, Y.</b>, & Wang, C. (2025, July). A neural network approach to small sample intersectional DIF detection. Paper presented at the <em>International Meeting of the Psychometric Society</em>, Minneapolis, MN.
+  <b>Quan, Y.</b>, & Wang, C. (2025, July). <em>A neural network approach to small sample intersectional DIF detection</em> [Paper Presentation]. International Meeting of the Psychometric Society, Minneapolis, MN.
 </p>
 
 <p class="apa-ref">
-  <b>Quan, Y.</b> (2025, May). Using categorical structural equation models to identify facets of student belonging. Paper presented at the <em>Community Partner Doctoral Fellowship Research Presentation</em>, Seattle, WA.
+  <b>Quan, Y.</b> (2025, May). <em>Using categorical structural equation models to identify facets of student belonging</em> [Paster Presentation]. Community Partner Doctoral Fellowship Research Presentation, Seattle, WA.
 </p>
 
 <p class="apa-ref">
-  <b>Quan, Y.</b>, Ren, H., & Wang, C. (2025, March). Constructing a machine learning model for binary predictions with incomplete, imbalanced data and non-linear effects. Paper presented at <em>A Meeting of Methodologists</em>.
+  <b>Quan, Y.</b>, Ren, H., & Wang, C. (2025, March). <em>Constructing a machine learning model for binary predictions with incomplete, imbalanced data and non-linear effects</em> [Paper Presentation]. A Meeting of Methodologists.
 </p>
 
 <p class="apa-ref">
-  <b>Quan, Y.</b>, & Sager, M. (2025, February). Identifying core formal assessment competencies and informal learning outcomes of data science and data literacy. Paper presented at the <em>Data Science Education K–12: Research to Practice Annual Conference</em>.
+  <b>Quan, Y.</b>, & Sager, M. (2025, February). <em>Identifying core formal assessment competencies and informal learning outcomes of data science and data literacy</em> [Paper Presentation]. Data Science Education K–12: Research to Practice Annual Conference.
 </p>
 
 ### 2024
 
 <p class="apa-ref">
-  <b>Quan, Y.</b>, & Wang, C. (2024, November). A new item fit test for the diagnostic facet test model (DFSM). Paper presented at the <em>Pacific Northwest Research on Psychometrics and Applied Statistics Conference</em>, Pullman, WA.
+  <b>Quan, Y.</b>, & Wang, C. (2024, November). <em>A new item fit test for the diagnostic facet test model (DFSM)</em> [Paper Presentation]. Pacific Northwest Research on Psychometrics and Applied Statistics Conference, Pullman, WA.
 </p>
 
 <p class="apa-ref">
-  <b>Quan, Y.</b> (2024, October). Item response theory (IRT) model selection and applications. Invited talk at the <em>University of Washington Behavioral Research Center for HIV</em>, Seattle, WA.
+  <b>Quan, Y.</b>, & Wang, C. (2024, April). <em>Parameter recovery from higher order item response theory models with structural missingness</em> [Paper Presentation]. National Council on Measurement in Education Annual Meeting, Philadelphia, PA.
 </p>
 
 <p class="apa-ref">
-  <b>Quan, Y.</b>, & Wang, C. (2024, April). Parameter recovery from higher order item response theory models with structural missingness. Paper presented at the <em>National Council on Measurement in Education Annual Meeting</em>, Philadelphia, PA.
-</p>
-
-<p class="apa-ref">
-  <b>Quan, Y.</b>, & Wang, C. (2024, April). Collapsing or not? A practical guide to handling sparse responses for polytomous items. Poster and paper presented at the <em>American Educational Research Association Annual Meeting</em>, Philadelphia, PA. <a href="https://doi.org/10.3102/2102869">https://doi.org/10.3102/2102869</a>
+  <b>Quan, Y.</b>, & Wang, C. (2024, April). <em>Collapsing or not? A practical guide to handling sparse responses for polytomous items</em> [Paper and Poster Presentation]. American Educational Research Association Annual Meeting, Philadelphia, PA. <a href="https://doi.org/10.3102/2102869">https://doi.org/10.3102/2102869</a>
 </p>
 
 ### 2023
 
 <p class="apa-ref">
-  <b>Quan, Y.</b>, & Wang, C. (2023, April). The effects of sample size and collapse direction on parameter recovery. Poster presented at the <em>National Council on Measurement in Education Annual Meeting</em>, Chicago, IL.
+  <b>Quan, Y.</b>, & Wang, C. (2023, April). <em>The effects of sample size and collapse direction on parameter recovery</em> [Paper Presentation]. National Council on Measurement in Education Annual Meeting, Chicago, IL.
 </p>
 
 ---
@@ -136,23 +132,23 @@ author_profile: true
 ## Invited Talks & Departmental Seminars
 
 <p class="apa-ref">
-  <b>Quan, Y.</b> (2024, October). Item response theory (IRT) model selection and applications. <em>University of Washington Behavioral Research Center for HIV</em>, Seattle, WA.
+  <b>Quan, Y.</b> (2024, October). <em>Item response theory (IRT) model selection and applications</em>. University of Washington Behavioral Research Center for HIV, Seattle, WA.
 </p>
 
 <p class="apa-ref">
-  <b>Quan, Y.</b> (2024, December). Sample size and test length recommendations for the diagnostic status facet model. <em>Center for Statistics and the Social Sciences Student Research Presentation</em>, Seattle, WA.
+  <b>Quan, Y.</b> (2024, December). <em>Sample size and test length recommendations for the diagnostic status facet model</em>. Center for Statistics and the Social Sciences Student Research Presentation, Seattle, WA.
 </p>
 
 <p class="apa-ref">
-  <b>Quan, Y.</b> (2024, June). Introduction to Bayesian item response theory. <em>Center for Statistics and the Social Sciences Student Research Presentation</em>, Seattle, WA.
+  <b>Quan, Y.</b> (2024, June). <em>Introduction to Bayesian item response theory</em>. Center for Statistics and the Social Sciences Student Research Presentation, Seattle, WA.
 </p>
 
 <p class="apa-ref">
-  <b>Quan, Y.</b> (2024, March). The effects of measurement error on multilevel linear growth model parameter estimates. <em>Center for Statistics and the Social Sciences Student Research Presentation</em>, Seattle, WA.
+  <b>Quan, Y.</b> (2024, March). <em>The effects of measurement error on multilevel linear growth model parameter estimates</em>. Center for Statistics and the Social Sciences Student Research Presentation, Seattle, WA.
 </p>
 
 <p class="apa-ref">
-  <b>Quan, Y.</b> (2021, December). Clustering education data using K-medoids with partitioning around the medoids algorithm. <em>Measurement & Statistics Seminar, University of Washington</em>, Seattle, WA.
+  <b>Quan, Y.</b> (2021, December). <em>Clustering education data using K-medoids with partitioning around the medoids algorithm</em>. Measurement & Statistics Seminar, University of Washington, Seattle, WA.
 </p>
 
 ---
