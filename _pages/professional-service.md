@@ -29,5 +29,3 @@ author_profile: true
 <ul>
   <li>Session Chair – NCME (2022–Present)</li>
 </ul>
-
-</div>
