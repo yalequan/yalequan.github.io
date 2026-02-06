@@ -53,42 +53,57 @@ I incorporate a variety of instructional strategies, including think-pair-share,
 
 <details>
 <summary>Click to expand full chronological teaching experience</summary>
+<h3>Teaching Assistant, University of Washington</h3>
+<p><em>College of Arts and Sciences, Department of Psychology; College of Education - Educational Psychology</em></p>
 
-## Teaching Assistant, University of Washington
-*College of Arts and Sciences, Department of Psychology; College of Education - Educational Psychology*
+<h4>Basic Educational Statistics</h4>
+<ul>
+  <li>Held weekly office hours and assisted with grading and administering exams and quizzes. Responsible for managing course gradebook and assisting with course communication. Course content covers measurement scales, sampling distributions, confidence intervals, 1- and 2-group z/t/chi-square tests, and simple linear regression.</li>
+</ul>
 
-### Basic Educational Statistics
-* Held weekly office hours and assisted with grading and administering exams and quizzes. Responsible for managing course gradebook and assisting with course communication. Course content covers measurement scales, sampling distributions, confidence intervals, 1- and 2-group z/t/chi-square tests, and simple linear regression.
+<h4>Fundamentals of Psychological Research</h4>
+<ul>
+  <li>Taught up to 100 undergraduate students per quarter. Students enrolled in this course are either applying into the psychology major or preparing to undertake research within the department. Topics include hypothesis testing, experimental design, research strategies, scientific writing, literature evaluation, and ethical issues in research.</li>
+</ul>
 
-### Fundamentals of Psychological Research
-* Teach up to 100 undergraduate students per quarter. Students enrolled in this course are either applying into the psychology major or preparing to undertake research within the department. Course content covers psychological research methodology and techniques. Topics include the logic of hypothesis testing, experimental design, research strategies and techniques, fundamentals of scientific writing, search and evaluation of research literature in psychology, and ethical issues in psychological research.
+<h3>Lecturer, California State University, Long Beach</h3>
+<p><em>Department of Mathematics and Statistics</em></p>
 
-## Lecturer, California State University, Long Beach
-*Department of Mathematics and Statistics*
+<h4>Statistics for Everyday Life*</h4>
+<ul>
+  <li>Taught large lecture and 1 activity section. Collaborated with a team of lecturers and professors to update course material and discuss learning objectives. Covered exploratory data analysis, descriptive statistics, probability, binomial and normal distributions, confidence intervals, hypothesis testing, correlation and regression, contingency tables.</li>
+</ul>
 
-### Statistics for Everyday Life*
-* Taught large lecture and 1 activity section. Collaborated with a team of lecturers and professors to update course material and discuss learning objectives. Course content includes exploratory data analysis, methods of visualizing data, descriptive statistics, misuse and manipulation of data in statistical analysis, probability, binomial and normal distributions, confidence intervals, hypothesis testing, correlation and regression, contingency tables.
+<h3>Graduate Teaching Associate, California State University, Long Beach</h3>
+<p><em>Department of Mathematics and Statistics</em></p>
 
-## Graduate Teaching Associate, California State University, Long Beach
-*Department of Mathematics and Statistics*
+<h4>Statistics for Everyday Life</h4>
+<ul>
+  <li>Wrote weekly lesson plans and solutions for all STAT 108 activity sections, incorporating think-pair-share, modeling, individual, and group work. Taught 5 activity sections of 30 students each. Held 2hrs of office hours per week.</li>
+</ul>
 
-### Statistics for Everyday Life
-* Wrote weekly lesson plans and solutions for all STAT 108 activity sections. Lesson plans consisted of a combination of think-pair-share, modeling, individual, and group work designed to extend student understanding of content covered in lecture as well as introduce new statistical concepts. Taught 5 activity sections with 30 undergraduate students per section. Students enrolled in this course were primarily pre-healthcare majors. Attended lecture 2 times per week and answered questions asked during lecture. Held 2hrs of office hours per week.
+<h4>Essential Algebra B</h4>
+<ul>
+  <li>Assisted with development and implementation during first semester. Designed lessons connecting new geometry material to algebra concepts. Taught 4-5 activity sections with 25-30 students per section. Held 2hrs of office hours per week.</li>
+</ul>
 
-### Essential Algebra B
-* Assisted with the development and implementation during the first semester this course was implemented. Developed lesson plans that connected the new Geometry material taught in activity sections to the Algebra concepts covered in large lecture. Lessons consisted of a combination of think-pair-share, modeling, individual, and group work. Taught 4-5 activity sections per semester with 25-30 undergraduate students per section. Students were primarily STEM majors. Attended lecture 2 times per week and answered questions asked during lecture. Held 2hrs of office hours per week.
+<h4>The Power of Mathematics*</h4>
+<ul>
+  <li>Assisted with course development and wrote weekly quizzes. Lessons focused on think-pair-share and group work to demonstrate real-world applications. Taught 4-5 activity sections per semester. Held 2hrs of office hours per week.</li>
+</ul>
 
-### The Power of Mathematics*
-* Assisted with the development and implementation during the first semester this course was implemented. Wrote weekly quizzes and developed lesson plans that focused on think-pair-share, and group work designed to demonstrate real-world applications of concepts covered in large lecture. Taught 4-5 activity sections per semester with 25-30 undergraduate students per section. Students enrolled in this course were non-STEM majors and came from a diverse population of majors. Held 2hrs of office hours per week.
+<h3>Mentor Supplemental Instructor, California State University, Long Beach</h3>
 
-## Mentor Supplemental Instructor, California State University, Long Beach
+<h4>Business Calculus*</h4>
+<ul>
+  <li>Taught supplemental instruction sections. Supervised 5 mathematics supplemental instructors and held bi-weekly trainings on content, classroom management, and teaching techniques. Held weekly office hours. Lesson primarily focused on group work.</li>
+</ul>
 
-### Business Calculus*
-* Taught 1 supplemental instruction section. Wrote and implemented lesson plans that reinforced and extends material covered in lecture.  Supervised a group of 5 mathematics supplemental instructors and held bi-weekly training's on content, classroom management, and teaching techniques.  Held weekly office hours by appointment.  Attend weekly lecture.  Lesson primarily focused on group work.
+<h4>Calculus I*</h4>
+<ul>
+  <li>Taught 1 supplemental instruction section. Held weekly office hours. Lessons primarily lecture-focused with some group work.</li>
+</ul>
 
-### Calculus I*
-* Taught 1 supplemental instruction section. Wrote and implemented lesson plans that reinforced and extends material covered in lecture.  Held weekly office hours by appointment.  Attend weekly lecture.  Lessons were primarily lecture focused with sparse group work.
-
-\* Instructor of Record
+<p><em>*Instructor of Record</em></p>
 
 </details>
