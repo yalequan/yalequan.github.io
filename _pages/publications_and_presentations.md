@@ -48,7 +48,7 @@ author_profile: true
 
 ---
 
-## Journal Articles
+## Peer-Reviewed Journal Articles
 
 <p class="apa-ref">
   <b>Quan, Y.</b>, & Wang, C. (2026). Calibrating multidimensional assessments with structural missingness: An application of a multiple-group higher-order IRT model. <em>Applied Psychological Measurement</em>. <a href="https://doi.org/10.1177/01466216251415011">https://doi.org/10.1177/01466216251415011</a>
