@@ -25,7 +25,7 @@ author_profile: true
 </p>
 
 <p class="pub-desc">
-  <em>Simulation study providing guidance on when to collapse response categories in Likert-scale items based on polytomous IRT models.</em>
+  <em>Simulation study demonstrating that category collapse can induce data–model misfit and biased item parameter estimates in polytomous IRT models.</em>
 </p>
 
 </div>
