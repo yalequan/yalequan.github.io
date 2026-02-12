@@ -15,6 +15,22 @@ author_profile: true
 ## Featured Publications
 
 <div style="background-color: var(--warm-bg, #f8f6f4); 
+      padding: 0.5rem; 
+      border-radius: 8px; 
+      margin-bottom: 2rem; 
+      border-left: 4px solid var(--primary-warm, #c17d5f);">
+
+<p class="apa-ref">
+  <b>Quan, Y.</b>, & Wang, C. (In Press). Using multi-label classification neural networks to detect intersectional DIF. <em>British Journal of Mathematical and Statistical Psychology</em>. <a href="https://doi.org/10.31234/osf.io/rftyg_v2">Preprint</a>
+</p>
+
+<p class="pub-desc">
+  <em>Introduces a multi-label neural network approach for detecting differential item functioning across intersecting demographic groups in small samples.</em>
+</p>
+
+</div>
+
+<div style="background-color: var(--warm-bg, #f8f6f4); 
 			padding: 0.5rem; 
 			border-radius: 8px; 
 			margin-bottom: 2rem; 
@@ -30,25 +46,13 @@ author_profile: true
 
 </div>
 
-<div style="background-color: var(--warm-bg, #f8f6f4); 
-			padding: 0.5rem; 
-			border-radius: 8px; 
-			margin-bottom: 2rem; 
-			border-left: 4px solid var(--primary-warm, #c17d5f);">
-
-<p class="apa-ref">
-  <b>Quan, Y.</b>, & Wang, C. (under review). Using multi-label classification neural networks to detect intersectional DIF. <em>British Journal of Mathematical and Statistical Psychology</em>. <a href="https://doi.org/10.31234/osf.io/rftyg_v2">Preprint</a>
-</p>
-
-<p class="pub-desc">
-  <em>Introduces a multi-label neural network approach for detecting differential item functioning across intersecting demographic groups in small samples.</em>
-</p>
-
-</div>
-
 ---
 
 ## Peer-Reviewed Journal Articles
+
+<p class="apa-ref">
+  <b>Quan, Y.</b>, & Wang, C. (In Press). Using multi-label classification neural networks to detect intersectional DIF with small sample sizes. <em>British Journal of Mathematical and Statistical Psychology</em>.
+</p>
 
 <p class="apa-ref">
   <b>Quan, Y.</b>, & Wang, C. (2026). Calibrating multidimensional assessments with structural missingness: An application of a multiple-group higher-order IRT model. <em>Applied Psychological Measurement</em>. <a href="https://doi.org/10.1177/01466216251415011">https://doi.org/10.1177/01466216251415011</a>
@@ -65,10 +69,6 @@ author_profile: true
 ---
 
 ## Manuscripts Under Review & In Preparation
-
-<p class="apa-ref">
-  <b>Quan, Y.</b>, & Wang, C. (under review). Using multi-label classification neural networks to detect intersectional DIF with small sample sizes. <em>British Journal of Mathematical and Statistical Psychology</em>.
-</p>
 
 <p class="apa-ref">
   Wang, C., <b>Quan, Y.</b>, & Arthur, D. (under review). Review of cognitive diagnostic models (CDMs): Recent methodological advancements for addressing challenges in applications. <em>British Journal of Mathematical and Statistical Psychology</em>.
