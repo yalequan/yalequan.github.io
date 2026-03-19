@@ -21,7 +21,7 @@ author_profile: true
       border-left: 4px solid var(--primary-warm, #c17d5f);">
 
 <p class="apa-ref">
-  <b>Quan, Y.</b>, & Wang, C. (In Press). Using multi-label classification neural networks to detect intersectional DIF. <em>British Journal of Mathematical and Statistical Psychology</em>. <a href="https://doi.org/10.31234/osf.io/rftyg_v2">Preprint</a>
+  <b>Quan, Y.</b>, & Wang, C. (In Press). Using multi-label classification neural networks to detect intersectional DIF. <em>British Journal of Mathematical and Statistical Psychology</em>, 00, 1–38. <a href="https://doi.org/10.1111/bmsp.70041">https://doi.org/10.1111/bmsp.70041</a>
 </p>
 
 <p class="pub-desc">
@@ -51,7 +51,7 @@ author_profile: true
 ## Peer-Reviewed Journal Articles
 
 <p class="apa-ref">
-  <b>Quan, Y.</b>, & Wang, C. (In Press). Using multi-label classification neural networks to detect intersectional DIF with small sample sizes. <em>British Journal of Mathematical and Statistical Psychology</em>.
+  <b>Quan, Y.</b>, & Wang, C. (2026). Using multi-label classification neural networks to detect intersectional DIF with small sample sizes. <em>British Journal of Mathematical and Statistical Psychology</em>, 00, 1–38. <a href="https://doi.org/10.1111/bmsp.70041">https://doi.org/10.1111/bmsp.70041</a>.
 </p>
 
 <p class="apa-ref">
