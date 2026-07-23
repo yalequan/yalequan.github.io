@@ -51,6 +51,10 @@ author_profile: true
 ## Peer-Reviewed Journal Articles
 
 <p class="apa-ref">
+  Wang, C., <b>Quan, Y.</b>, & Arthur, D. (2026). Review of cognitive diagnostic models (CDMs): Recent methodological advancements for addressing practical challenges. <em>British Journal of Mathematical and Statistical Psychology<em>, 00, 1–35. <a href="https://doi.org/10.1111/bmsp.70066">https://doi.org/10.1111/bmsp.70066
+</p>
+
+<p class="apa-ref">
   <b>Quan, Y.</b>, & Wang, C. (2026). Using multi-label classification neural networks to detect intersectional DIF with small sample sizes. <em>British Journal of Mathematical and Statistical Psychology</em>, 00, 1–38. <a href="https://doi.org/10.1111/bmsp.70041">https://doi.org/10.1111/bmsp.70041</a>.
 </p>
 
@@ -71,7 +75,19 @@ author_profile: true
 ## Manuscripts Under Review & In Preparation
 
 <p class="apa-ref">
-  Wang, C., <b>Quan, Y.</b>, & Arthur, D. (under review). Review of cognitive diagnostic models (CDMs): Recent methodological advancements for addressing challenges in applications. <em>British Journal of Mathematical and Statistical Psychology</em>.
+  <b>Quan, Y.</b>, Wang, C. (Under Review). Long-InterDIFNet: A Long-Format Neural Network 
+  for Transportable Intersectional DIF Flagging. <em>Journal of Educational and Behavioral Statistics<em>.
+</p>
+
+<p class="apa-ref">
+  Parker, M., <b>Quan, Y.</b>, Wang, C., Li, M. (Under Review). Can AI Write the Test? The 
+  Irreplaceable Role of Humans in Computing Assessment Creation. <em>SIGCSE<em>.
+</p>
+
+
+<p class="apa-ref">
+  Shao, K.,  <b>Quan, Y.</b>, Wilson, D., Makhsous, S. (Under Review). Designing Needs- and 
+  Attention-Aware AI Chatbots for Engineering Education: Insights from Psychological Outcomes. <em>TOCHI<em>.
 </p>
 
 <p class="apa-ref">
