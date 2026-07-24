@@ -51,7 +51,7 @@ author_profile: true
 ## Peer-Reviewed Journal Articles
 
 <p class="apa-ref">
-  Wang, C., <b>Quan, Y.</b>, & Arthur, D. (2026). Review of cognitive diagnostic models (CDMs): Recent methodological advancements for addressing practical challenges. <em>British Journal of Mathematical and Statistical Psychology<em>, 00, 1–35. <a href="https://doi.org/10.1111/bmsp.70066">https://doi.org/10.1111/bmsp.70066
+  Wang, C., <b>Quan, Y.</b>, & Arthur, D. (2026). Review of cognitive diagnostic models (CDMs): Recent methodological advancements for addressing practical challenges. <em>British Journal of Mathematical and Statistical Psychology<em>, 00, 1–35. <a href="https://doi.org/10.1111/bmsp.70066">https://doi.org/10.1111/bmsp.70066</a>
 </p>
 
 <p class="apa-ref">
