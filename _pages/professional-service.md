@@ -7,6 +7,8 @@ author_profile: true
 
 ## Reviewer for Peer-Reviewed Journals
 <ul>
+  <li>British Journal of Mathematical and Statistical Psychology<li>
+  <li>Educational and Psychological Methods</li>
   <li>Methodology. European Journal of Research Methods for the Behavioral and Social Sciences</li>
   <li>Journal of Behavioral Data Science</li>
   <li>Journal of Educational Measurement</li>
