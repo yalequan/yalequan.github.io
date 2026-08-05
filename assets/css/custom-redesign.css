@@ -150,14 +150,24 @@ p {
 
 a {
   color: var(--link-color) !important;
-  text-decoration: none;
+  text-decoration: underline;
+  text-underline-offset: 0.14em;
+  text-decoration-thickness: 0.08em;
   transition: all 0.2s ease;
-  border-bottom: 1px solid transparent;
+  border-bottom: 0;
 }
 
 a:hover {
   color: var(--link-hover) !important;
-  border-bottom-color: var(--link-hover);
+  text-decoration-thickness: 0.12em;
+}
+
+.greedy-nav a,
+.author__urls a,
+.btn,
+.page__taxonomy-item,
+.pagination a {
+  text-decoration: none;
 }
 
 /* Social media icons */
@@ -284,7 +294,9 @@ a:hover {
 
 /* Better focus states for accessibility */
 a:focus,
-button:focus {
+a:focus-visible,
+button:focus,
+button:focus-visible {
   outline: 2px solid var(--primary-warm);
   outline-offset: 2px;
 }

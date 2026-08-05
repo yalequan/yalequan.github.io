@@ -222,7 +222,9 @@ textarea[readonly] {
 input:focus,
 textarea:focus {
   border-color: $primary-color;
-  outline: 0;
+  outline: 3px solid mix(#fff, $primary-color, 20%);
+  outline-offset: 1px;
+  box-shadow: 0 0 0 2px mix(#fff, $primary-color, 80%);
   outline: thin dotted \9;
 }
 
@@ -230,6 +232,8 @@ input[type="file"]:focus,
 input[type="radio"]:focus,
 input[type="checkbox"]:focus,
 select:focus {
+  outline: 3px solid mix(#fff, $primary-color, 20%);
+  outline-offset: 2px;
   box-shadow: none;
 }
 

@@ -45,6 +45,7 @@ function updateNav() {
     if(breaks.length < 1) {
       $btn.addClass('hidden');
       $hlinks.addClass('hidden');
+      $btn.attr('aria-expanded', 'false');
     }
   }
 
@@ -67,6 +68,7 @@ $(window).resize(function() {
 $btn.on('click', function() {
   $hlinks.toggleClass('hidden');
   $(this).toggleClass('close');
+  $(this).attr('aria-expanded', $hlinks.hasClass('hidden') ? 'false' : 'true');
 });
 
 updateNav();

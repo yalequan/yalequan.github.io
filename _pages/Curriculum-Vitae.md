@@ -7,4 +7,14 @@ redirect_from:
   - /resume
 ---
 
-<embed src="{{ site.baseurl }}/files/Yale_Quan_CV.pdf" width="600" height="700" type='application/pdf'> 
+<p>
+  If the embedded PDF is not accessible on your device, use the direct link:
+  <a href="{{ site.baseurl }}/files/Yale_Quan_CV.pdf">Download Yale Quan's CV (PDF)</a>.
+</p>
+
+<embed
+  src="{{ site.baseurl }}/files/Yale_Quan_CV.pdf"
+  width="600"
+  height="700"
+  type="application/pdf"
+  title="Curriculum Vitae PDF for Yale Quan">

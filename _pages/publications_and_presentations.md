@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "Publications and Presentations"
 permalink: /publications_and_presentations/
 author_profile: true
 ---
@@ -51,7 +52,7 @@ author_profile: true
 ## Peer-Reviewed Journal Articles
 
 <p class="apa-ref">
-  Wang, C., <b>Quan, Y.</b>, & Arthur, D. (2026). Review of cognitive diagnostic models (CDMs): Recent methodological advancements for addressing practical challenges. <em>British Journal of Mathematical and Statistical Psychology<em>, 00, 1–35. <a href="https://doi.org/10.1111/bmsp.70066">https://doi.org/10.1111/bmsp.70066</a>
+  Wang, C., <b>Quan, Y.</b>, & Arthur, D. (2026). Review of cognitive diagnostic models (CDMs): Recent methodological advancements for addressing practical challenges. <em>British Journal of Mathematical and Statistical Psychology</em>, 00, 1–35. <a href="https://doi.org/10.1111/bmsp.70066">https://doi.org/10.1111/bmsp.70066</a>
 </p>
 
 <p class="apa-ref">
@@ -76,18 +77,18 @@ author_profile: true
 
 <p class="apa-ref">
   <b>Quan, Y.</b>, Wang, C. (Under Review). Long-InterDIFNet: A Long-Format Neural Network 
-  for Transportable Intersectional DIF Flagging. <em>Journal of Educational and Behavioral Statistics<em>.
+  for Transportable Intersectional DIF Flagging. <em>Journal of Educational and Behavioral Statistics</em>.
 </p>
 
 <p class="apa-ref">
   Parker, M., <b>Quan, Y.</b>, Wang, C., Li, M. (Under Review). Can AI Write the Test? The 
-  Irreplaceable Role of Humans in Computing Assessment Creation. <em>SIGCSE<em>.
+  Irreplaceable Role of Humans in Computing Assessment Creation. <em>SIGCSE</em>.
 </p>
 
 
 <p class="apa-ref">
   Shao, K.,  <b>Quan, Y.</b>, Wilson, D., Makhsous, S. (Under Review). Designing Needs- and 
-  Attention-Aware AI Chatbots for Engineering Education: Insights from Psychological Outcomes. <em>TOCHI<em>.
+  Attention-Aware AI Chatbots for Engineering Education: Insights from Psychological Outcomes. <em>TOCHI</em>.
 </p>
 
 <p class="apa-ref">
@@ -127,7 +128,7 @@ author_profile: true
 </p>
 
 <p class="apa-ref">
-  <b>Quan, Y.</b> (2025, May). <em>Using categorical structural equation models to identify facets of student belonging</em> [Paster Presentation]. Community Partner Doctoral Fellowship Research Presentation, Seattle, WA.
+  <b>Quan, Y.</b> (2025, May). <em>Using categorical structural equation models to identify facets of student belonging</em> [Poster Presentation]. Community Partner Doctoral Fellowship Research Presentation, Seattle, WA.
 </p>
 
 <p class="apa-ref">

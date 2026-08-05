@@ -184,6 +184,13 @@
     color: $masthead-link-color;
     text-decoration: none;
 
+    &:focus,
+    &:focus-visible {
+      outline: 3px solid mix(#fff, $primary-color, 20%);
+      outline-offset: 2px;
+      border-radius: 2px;
+    }
+
     &:hover {
       color: $masthead-link-color-hover;
     }
@@ -195,10 +202,15 @@
     right: 0;
     padding: 0 0.5rem;
     border: 0;
-    outline: none;
     background-color: $primary-color;
     color: #fff;
     cursor: pointer;
+
+    &:focus,
+    &:focus-visible {
+      outline: 3px solid mix(#fff, $primary-color, 20%);
+      outline-offset: 2px;
+    }
   }
 
   .visible-links {
