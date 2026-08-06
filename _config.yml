@@ -85,7 +85,7 @@ author:
   bio              : "Assistant Professor, University of Southern Mississippi"
   location         : "Hattiesburg, MS"
   employer         :
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed          : 
   googlescholar    : "https://scholar.google.com/citations?user=1JAU4QMAAAAJ&hl=en"
   email            : "Yale.Quan@usm.edu"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
