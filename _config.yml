@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yale Quan"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate, University of Washington | Incoming Assistant Professor, University of Southern Mississippi (Fall 2026)"
-  location         : "Seattle, WA"
+  bio              : "Assistant Professor, University of Southern Mississippi"
+  location         : "Hattiesburg, MS"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=1JAU4QMAAAAJ&hl=en"
-  email            : "yalequan@uw.edu"
+  email            : "Yale.Quan@usm.edu"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   #uri              :
   #bitbucket        :
