@@ -22,6 +22,22 @@ author_profile: true
       border-left: 4px solid var(--primary-warm, #c17d5f);">
 
 <p class="apa-ref">
+  <b>Quan, Y.</b>, & Wang, C. (2026). Transitive DIF clustering: A graph-theoretic approach to identifying many-group partial measurement invariance. <em>Psychological Methods</em>. <a href="https://doi.org/10.1037/met0000873">https://doi.org/10.1037/met0000873</a>
+</p>
+
+<p class="pub-desc">
+  <em>Introduces a graph-theoretic clustering approach that identifies which groups share item parameters, supporting partial measurement invariance across many groups.</em>
+</p>
+
+</div>
+
+<div style="background-color: var(--warm-bg, #f8f6f4); 
+      padding: 0.5rem; 
+      border-radius: 8px; 
+      margin-bottom: 2rem; 
+      border-left: 4px solid var(--primary-warm, #c17d5f);">
+
+<p class="apa-ref">
   <b>Quan, Y.</b>, & Wang, C. (2026). Using multi-label classification neural networks to detect intersectional DIF with small sample sizes. <em>British Journal of Mathematical and Statistical Psychology</em>, 00, 1–38. <a href="https://doi.org/10.1111/bmsp.70041">https://doi.org/10.1111/bmsp.70041</a>
 </p>
 
@@ -32,17 +48,17 @@ author_profile: true
 </div>
 
 <div style="background-color: var(--warm-bg, #f8f6f4); 
-			padding: 0.5rem; 
-			border-radius: 8px; 
-			margin-bottom: 2rem; 
-			border-left: 4px solid var(--primary-warm, #c17d5f);">
+      padding: 0.5rem; 
+      border-radius: 8px; 
+      margin-bottom: 2rem; 
+      border-left: 4px solid var(--primary-warm, #c17d5f);">
 
 <p class="apa-ref">
-  <b>Quan, Y.</b>, & Wang, C. (2025). Collapsing or not? A practical guide to handling sparse responses for polytomous items. <em>Methodology, 21</em>(1), 46–73. <a href="https://doi.org/10.5964/meth.14303">https://doi.org/10.5964/meth.14303</a>
+  Wang, C., <b>Quan, Y.</b>, & Arthur, D. (2026). Review of cognitive diagnostic models (CDMs): Recent methodological advancements for addressing practical challenges. <em>British Journal of Mathematical and Statistical Psychology</em>, 00, 1–35. <a href="https://doi.org/10.1111/bmsp.70066">https://doi.org/10.1111/bmsp.70066</a>
 </p>
 
 <p class="pub-desc">
-  <em>Simulation study demonstrating that category collapse can induce data–model misfit and biased item parameter estimates in polytomous IRT models.</em>
+  <em>Reviews recent methodological advances that address practical challenges in applying cognitive diagnostic models.</em>
 </p>
 
 </div>

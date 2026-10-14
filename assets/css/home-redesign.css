@@ -1,0 +1,201 @@
+/* ============================================
+   HOMEPAGE REDESIGN (Oct 2026)
+   Loaded after custom-redesign.css. Delete the <link> to this file in
+   _includes/head/custom.html to fall back to the previous look.
+   ============================================ */
+
+/* ---------- Homepage content ---------- */
+.home h1.home-lead {
+  font-family: 'Charter', 'Georgia', 'Times New Roman', serif;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.45;
+  letter-spacing: -0.01em;
+  margin: 0 0 0.6rem;
+  max-width: 34em;
+}
+.home p.home-lead__second {
+  font-family: 'Charter', 'Georgia', 'Times New Roman', serif;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  color: var(--text-secondary);
+  margin: 0;
+  max-width: 40em;
+}
+.home .home-rule {
+  border: 0;
+  border-top: 1px solid var(--warm-gray-100);
+  margin: 2.25rem 0 0;
+}
+.home h2 {
+  font-size: 1.35rem;
+  margin: 2.25rem 0 1.1rem;
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+
+/* Research cards */
+.home-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+a.home-card {
+  display: block;
+  text-decoration: none !important;
+  background: var(--warm-bg);
+  border: 1px solid var(--warm-gray-100);
+  border-top: 3px solid var(--primary-warm);
+  border-radius: 8px;
+  padding: 1.15rem 1.2rem 1.25rem;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+a.home-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(45, 41, 38, 0.07);
+}
+.home-card h3 {
+  font-size: 1.08rem;
+  margin: 0 0 0.5rem;
+}
+.home-card p {
+  margin: 0;
+  font-size: 0.92rem;
+  line-height: 1.55;
+  color: var(--text-secondary);
+}
+.home-card__more {
+  display: inline-block;
+  margin-top: 0.7rem;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--primary-dark);
+}
+.home p.home-applied {
+  margin: 1.1rem 0 0;
+  font-size: 0.95rem;
+  max-width: none;
+}
+
+/* Featured publications */
+.home-pubs {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.home-pubs li {
+  padding: 1rem 0;
+  margin: 0;
+  border-bottom: 1px solid var(--warm-gray-100);
+}
+.home-pubs li:first-child { padding-top: 0; }
+.home-pubs li:last-child { border-bottom: 0; }
+.home-pubs__title {
+  font-weight: 600;
+  color: var(--text-primary);
+  font-size: 1rem;
+  line-height: 1.45;
+}
+.home-pubs__meta {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin-top: 0.15rem;
+}
+.home-pubs__meta em { color: var(--text-primary); }
+.home-pubs__links { margin-top: 0.4rem; }
+a.home-tag {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-decoration: none !important;
+  border: 1px solid var(--warm-gray-200);
+  border-radius: 4px;
+  padding: 0.1rem 0.5rem;
+}
+a.home-tag:hover { border-color: var(--primary-warm); }
+a.home-all {
+  display: inline-block;
+  margin-top: 0.75rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+/* News */
+.home-news {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.home-news li {
+  display: grid;
+  grid-template-columns: 7.5rem 1fr;
+  gap: 1rem;
+  padding: 0.55rem 0;
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+.home-news__date {
+  font-weight: 600;
+  font-size: 0.85rem;
+  color: var(--primary-dark);
+  padding-top: 0.08rem;
+}
+.home-news__text { color: var(--text-secondary); }
+
+/* ---------- Compact sidebar (tablets and phones) ----------
+   Matches the theme's $large breakpoint (925px). */
+@media (max-width: 57.8124em) {
+  .home h1.home-lead { font-size: 1.3rem; }
+  .home p.home-lead__second { font-size: 1.02rem; }
+  .home-cards { grid-template-columns: 1fr; }
+  .home-news li { grid-template-columns: 1fr; gap: 0; padding: 0.6rem 0; }
+
+  /* Larger profile photo beside name and bio */
+  .sidebar .author__avatar {
+    display: table-cell;
+    width: 96px;
+    vertical-align: middle;
+  }
+  .sidebar .author__avatar img {
+    width: 96px;
+    height: 96px;
+    max-width: 96px;
+    object-fit: cover;
+    border-width: 2px;
+  }
+  .sidebar .author__content {
+    vertical-align: middle;
+    padding-left: 1rem;
+  }
+  .sidebar .author__name { margin-top: 0 !important; }
+
+  /* Connect button sits below; the link list opens underneath it */
+  .sidebar .author__urls-wrapper {
+    display: block;
+    margin-top: 0.85rem;
+  }
+  .sidebar .author__urls-wrapper button {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--primary-dark);
+    background: var(--warm-white);
+    border: 1px solid var(--warm-gray-200);
+    border-radius: 6px;
+    padding: 0.35rem 0.85rem;
+  }
+  .sidebar .author__urls {
+    position: relative;
+    right: auto;
+    margin-top: 0.6rem;
+    padding: 0.5rem 0.9rem;
+    background: var(--warm-white);
+    border: 1px solid var(--warm-gray-100);
+    border-radius: 8px;
+    box-shadow: none;
+    z-index: 1;
+  }
+  .sidebar .author__urls:before,
+  .sidebar .author__urls:after { display: none; }
+}

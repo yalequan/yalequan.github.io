@@ -81,13 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Yale Quan"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Assistant Professor, University of Southern Mississippi"
   location         : "Hattiesburg, MS"
   employer         :
   #pubmed          : 
   googlescholar    : "https://scholar.google.com/citations?user=1JAU4QMAAAAJ&hl=en"
   email            : "Yale.Quan@usm.edu"
+  usm_profile      : "https://www.usm.edu/faculty-directory/profile.php?id=2694177"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   #uri              :
   #bitbucket        :
