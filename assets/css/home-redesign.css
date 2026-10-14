@@ -225,3 +225,21 @@ a.home-all {
   font-size: 1.1em;
   vertical-align: -0.1em;
 }
+
+/* ---------- Larger text, site-wide ----------
+   Base size for everything measured in rem/em (headings, sidebar, nav,
+   cards). Theme default was 16px on phones and 18px on desktop, and
+   custom-redesign.css pinned body text at 17px. To adjust later, change
+   these three numbers. */
+html {
+  font-size: 17px !important;
+}
+@media (min-width: 48em) {
+  html { font-size: 19px !important; }
+}
+@media (min-width: 80em) {
+  html { font-size: 20px !important; }
+}
+body {
+  font-size: 1rem !important;
+}
