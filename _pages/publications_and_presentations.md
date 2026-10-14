@@ -22,7 +22,7 @@ author_profile: true
       border-left: 4px solid var(--primary-warm, #c17d5f);">
 
 <p class="apa-ref">
-  <b>Quan, Y.</b>, & Wang, C. (2026). Using multi-label classification neural networks to detect intersectional DIF. <em>British Journal of Mathematical and Statistical Psychology</em>, 00, 1–38. <a href="https://doi.org/10.1111/bmsp.70041">https://doi.org/10.1111/bmsp.70041</a>
+  <b>Quan, Y.</b>, & Wang, C. (2026). Using multi-label classification neural networks to detect intersectional DIF with small sample sizes. <em>British Journal of Mathematical and Statistical Psychology</em>, 00, 1–38. <a href="https://doi.org/10.1111/bmsp.70041">https://doi.org/10.1111/bmsp.70041</a>
 </p>
 
 <p class="pub-desc">
@@ -72,12 +72,12 @@ author_profile: true
 </p>
 
 <p class="apa-ref">
-  Parker, M., Ciou, S. Y., <b>Quan, Y.</b>, Ren, H., Wang, C., & Li, M. (2025). Investigating answer choice bias within a college-level introductory computing assessment. <em>SIGCSE 2026</em>. <a href="https://doi.org/10.1145/3770762.3772622">https://doi.org/10.1145/3770762.3772622</a>
+  Parker, M., Ciou, S. Y., <b>Quan, Y.</b>, Ren, H., Wang, C., & Li, M. (2026). Investigating answer choice bias within a college-level introductory computing assessment. <em>SIGCSE 2026</em>. <a href="https://doi.org/10.1145/3770762.3772622">https://doi.org/10.1145/3770762.3772622</a>
 </p>
 
 ---
 
-## Manuscripts Under Review & In Preparation
+## Manuscripts Under Review
 
 <p class="apa-ref">
   <b>Quan, Y.</b>, Wang, C. (Under Review). Long-InterDIFNet: A Long-Format Neural Network 
@@ -86,7 +86,7 @@ author_profile: true
 
 <p class="apa-ref">
   Parker, M., <b>Quan, Y.</b>, Wang, C., Li, M. (Under Review). Can AI Write the Test? The 
-  Irreplaceable Role of Humans in Computing Assessment Creation. <em>SIGCSE</em>.
+  Irreplaceable Role of Humans in Computing Assessment Creation. <em>CHI</em>.
 </p>
 
 
@@ -95,16 +95,12 @@ author_profile: true
   Attention-Aware AI Chatbots for Engineering Education: Insights from Psychological Outcomes. <em>TOCHI</em>.
 </p>
 
-<p class="apa-ref">
-  Park, A., <b>Quan, Y.</b>, Lohr, M., & Oxford, M. (in preparation). Concurrent and enduring predictors of preschool language among young children of parents involved in child welfare. <em>Journal of Speech, Language, and Hearing Research</em>.
-</p>
-
 ---
 
 ## Working Papers & Preprints
 
 <p class="apa-ref">
-  <b>Quan, Y.</b>, & Ren, H. (2025). Sample size and assessment length recommendations for the diagnostic status facet model. <em>PsyArXiv</em>. <a href="https://doi.org/10.31234/osf.io/zr3je_v1">https://doi.org/10.31234/osf.io/zr3je_v1</a>
+  <b>Quan, Y.</b>, & Ren, H. (2025). Sample size and assessment length recommendations for the diagnostic facet status model. <em>PsyArXiv</em>. <a href="https://doi.org/10.31234/osf.io/zr3je_v1">https://doi.org/10.31234/osf.io/zr3je_v1</a>
 </p>
 
 ---
@@ -118,7 +114,7 @@ author_profile: true
 </p>
 
 <p class="apa-ref">
-  <b>Quan, Y.</b>, & Wang, C. (2026, April). <em>Detecting small sample Q-matrix misspecification in the diagnostic facet status model</em> [Paper Presentation]. National Council on Measurement in Education Annual Meeting, Los Angeles, CA.
+  <b>Quan, Y.</b>, & Wang, C. (2026, April). <em>Detecting small sample Q-matrix misspecification in the diagnostic facet status model</em> [Paper Presentation]. In <em>Advancing diagnostic models for fair and insightful educational action</em> [Invited Session]. National Council on Measurement in Education Annual Meeting, Los Angeles, CA.
 </p>
 
 ### 2025
@@ -128,7 +124,7 @@ author_profile: true
 </p>
 
 <p class="apa-ref">
-  <b>Quan, Y.</b> (2025, May). <em>Using categorical structural equation models to identify facets of student belonging</em> [Poster Presentation]. Community Partner Doctoral Fellowship Research Presentation, Seattle, WA.
+  <b>Quan, Y.</b> (2025, May). <em>Using categorical structural equation models to identify facets of student belonging</em> [Paper Presentation]. Community Partner Doctoral Fellowship Research Presentation, Seattle, WA.
 </p>
 
 <p class="apa-ref">
@@ -142,7 +138,7 @@ author_profile: true
 ### 2024
 
 <p class="apa-ref">
-  <b>Quan, Y.</b>, & Wang, C. (2024, November). <em>A new item fit test for the diagnostic facet test model (DFSM)</em> [Paper Presentation]. Pacific Northwest Research on Psychometrics and Applied Statistics Conference, Pullman, WA.
+  <b>Quan, Y.</b>, & Wang, C. (2024, November). <em>A new item fit test for the diagnostic facet status model (DFSM)</em> [Paper Presentation]. Pacific Northwest Research on Psychometrics and Applied Statistics Conference, Pullman, WA.
 </p>
 
 <p class="apa-ref">
@@ -150,13 +146,13 @@ author_profile: true
 </p>
 
 <p class="apa-ref">
-  <b>Quan, Y.</b>, & Wang, C. (2024, April). <em>Collapsing or not? A practical guide to handling sparse responses for polytomous items</em> [Paper and Poster Presentation]. American Educational Research Association Annual Meeting, Philadelphia, PA. <a href="https://doi.org/10.3102/2102869">https://doi.org/10.3102/2102869</a>
+  <b>Quan, Y.</b>, & Wang, C. (2024, April). <em>Collapsing or not? A practical guide to handling sparse responses for polytomous items</em> [Paper Presentation]. American Educational Research Association Annual Meeting, Philadelphia, PA. <a href="https://doi.org/10.3102/2102869">https://doi.org/10.3102/2102869</a>
 </p>
 
 ### 2023
 
 <p class="apa-ref">
-  <b>Quan, Y.</b>, & Wang, C. (2023, April). <em>The effects of sample size and collapse direction on parameter recovery</em> [Paper Presentation]. National Council on Measurement in Education Annual Meeting, Chicago, IL.
+  <b>Quan, Y.</b>, & Wang, C. (2023, April). <em>The effects of sample size and collapse direction on parameter recovery</em> [Poster Presentation]. National Council on Measurement in Education Annual Meeting, Chicago, IL.
 </p>
 
 ---
@@ -168,7 +164,7 @@ author_profile: true
 </p>
 
 <p class="apa-ref">
-  <b>Quan, Y.</b> (2024, December). <em>Sample size and test length recommendations for the diagnostic status facet model</em>. Center for Statistics and the Social Sciences Student Research Presentation, Seattle, WA.
+  <b>Quan, Y.</b>, & Ren, H. (2024, December). <em>Sample size and test length recommendations for the diagnostic facet status model</em>. Center for Statistics and the Social Sciences Student Research Presentation, Seattle, WA.
 </p>
 
 <p class="apa-ref">
@@ -176,7 +172,7 @@ author_profile: true
 </p>
 
 <p class="apa-ref">
-  <b>Quan, Y.</b> (2024, March). <em>The effects of measurement error on multilevel linear growth model parameter estimates</em>. Center for Statistics and the Social Sciences Student Research Presentation, Seattle, WA.
+  <b>Quan, Y.</b>, & Xiao, T. (2024, March). <em>The effects of measurement error on multilevel linear growth model parameter estimates</em>. Center for Statistics and the Social Sciences Student Research Presentation, Seattle, WA.
 </p>
 
 <p class="apa-ref">
@@ -185,7 +181,27 @@ author_profile: true
 
 ---
 
-## Thesis
+## Invited Workshops
+
+<p class="apa-ref">
+  <b>Quan, Y.</b> (2026). <em>A gentle introduction to developing neural networks in Python</em> [Workshop]. Center for Social Science Computation and Research, University of Washington, Seattle, WA.
+</p>
+
+<p class="apa-ref">
+  <b>Quan, Y.</b> (2025). <em>Machine learning methods for supervised single-label and multi-label classification</em> [Workshop]. Center for Social Science Computation and Research, University of Washington, Seattle, WA.
+</p>
+
+<p class="apa-ref">
+  <b>Quan, Y.</b> (2024). <em>Polytomous item response theory models: Applications and model selection</em> [Workshop]. University of Washington Behavioral Research Center for HIV, Seattle, WA.
+</p>
+
+---
+
+## Dissertation and Thesis
+
+<p class="apa-ref">
+  <b>Quan, Y.</b> (2026). <em>Culturally responsive measurement: Machine learning and artificial intelligence approaches to DIF detection, parameter estimation, and scoring</em> [Doctoral dissertation, University of Washington].
+</p>
 
 <p class="apa-ref">
   <b>Quan, Y.</b> (2020). <em>A multivariate statistical analysis of major change patterns and significant factors that influence graduation rates: A case study at California State University, Long Beach</em> (Publication No. 28155286) [Master’s thesis, California State University, Long Beach]. ProQuest Dissertations and Theses Global. <a href="https://www.proquest.com/dissertations-theses/multivariate-statistical-analysis-major-change/docview/2519029245/se-2">https://www.proquest.com/dissertations-theses/multivariate-statistical-analysis-major-change/docview/2519029245/se-2</a>

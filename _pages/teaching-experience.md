@@ -24,11 +24,11 @@ author_profile: true
 			color: var(--text-color);">
 
 <p>
-I design my courses to balance conceptual understanding, hands-on problem solving, and collaborative learning. I emphasize inclusive pedagogy and strive to make statistics and mathematics accessible for students from all backgrounds.
+I teach graduate courses in educational measurement and quantitative research methods. I design my courses to balance conceptual understanding, hands-on data analysis, and collaborative learning, and I emphasize inclusive pedagogy so that measurement and statistics are accessible to students from all backgrounds.
 </p>
 
 <p>
-My teaching focuses on fostering critical thinking, encouraging active participation, and connecting statistical and mathematical concepts to real-world applications. I aim to help students not only perform calculations but also interpret and communicate results effectively.
+My teaching focuses on fostering critical thinking, encouraging active participation, and connecting statistical and measurement concepts to the research questions students care about. I aim to help students not only run analyses but also interpret, critique, and communicate results effectively.
 </p>
 
 <p>
@@ -39,23 +39,35 @@ I incorporate a variety of instructional strategies, including think-pair-share,
 
 ## Selected Courses & Roles
 
-**University of Washington – Teaching Assistant**  
+**The University of Southern Mississippi – Assistant Professor (2026–Present)**  
+- *Measurement in Educational Research*  
+- *Quantitative Research Methods II*
+
+**University of Washington – Teaching Assistant (2021–2022)**  
 - *Basic Educational Statistics*: Assisted with grading, exams, and course communication; taught sampling distributions, confidence intervals, and linear regression.  
 - *Fundamentals of Psychological Research*: Guided students in research methodology, hypothesis testing, experimental design, and scientific writing.
 
-**California State University, Long Beach – Lecturer & Graduate Teaching Associate**  
+**California State University, Long Beach – Lecturer & Graduate Teaching Associate (2018–2021)**  
 - *Statistics for Everyday Life*: Taught large lectures and activity sections; developed collaborative and hands-on lessons for pre-healthcare and STEM students.  
-- *Essential Algebra B & The Power of Mathematics*: Designed and implemented lessons connecting algebra and geometry concepts to real-world applications for diverse student populations.
+- *Essential Algebra A/B & The Power of Mathematics*: Designed and implemented lessons connecting algebra and geometry concepts to real-world applications for diverse student populations.
 
-**Supplemental Instruction Mentor**  
+**California State University, Long Beach – Supplemental Instruction Mentor (2017–2018)**  
 - Led sections for *Business Calculus* and *Calculus I*, supervising peer instructors and providing additional support to students through group work, structured activities, and office hours.
 
 ## Full Teaching Record
 <details style="margin-bottom: 2rem;">
   <summary style="font-weight: bold; cursor: pointer; font-size: 1.1em;">Click to expand full chronological teaching experience</summary>
 
+  <!-- Assistant Professor -->
+  <h3 style="margin-top: 1rem;">Assistant Professor, The University of Southern Mississippi (2026–Present)</h3>
+  <p><em>College of Education and Human Sciences – Research, Evaluation, Statistics, and Assessment</em></p>
+
+  <h4 style="font-size: 1.05em; margin-top: 0.75rem;">Measurement in Educational Research*</h4>
+
+  <h4 style="font-size: 1.05em; margin-top: 0.75rem;">Quantitative Research Methods II*</h4>
+
   <!-- Teaching Assistant -->
-  <h3 style="margin-top: 1rem;">Teaching Assistant, University of Washington</h3>
+  <h3 style="margin-top: 1rem;">Teaching Assistant, University of Washington (2021–2022)</h3>
   <p><em>College of Arts and Sciences, Department of Psychology; College of Education - Educational Psychology</em></p>
 
   <h4 style="font-size: 1.05em; margin-top: 0.75rem;">Basic Educational Statistics</h4>
@@ -69,7 +81,7 @@ I incorporate a variety of instructional strategies, including think-pair-share,
   </ul>
 
   <!-- Lecturer -->
-  <h3 style="margin-top: 1rem;">Lecturer, California State University, Long Beach</h3>
+  <h3 style="margin-top: 1rem;">Lecturer, California State University, Long Beach (2020–2021)</h3>
   <p><em>Department of Mathematics and Statistics</em></p>
 
   <h4 style="font-size: 1.05em; margin-top: 0.75rem;">Statistics for Everyday Life*</h4>
@@ -78,7 +90,7 @@ I incorporate a variety of instructional strategies, including think-pair-share,
   </ul>
 
   <!-- Graduate Teaching Associate -->
-  <h3 style="margin-top: 1rem;">Graduate Teaching Associate, California State University, Long Beach</h3>
+  <h3 style="margin-top: 1rem;">Graduate Teaching Associate, California State University, Long Beach (2018–2021)</h3>
   <p><em>Department of Mathematics and Statistics</em></p>
 
   <h4 style="font-size: 1.05em; margin-top: 0.75rem;">Statistics for Everyday Life</h4>
@@ -86,7 +98,7 @@ I incorporate a variety of instructional strategies, including think-pair-share,
     <li>Wrote weekly lesson plans and solutions for all STAT 108 activity sections. Lesson plans included think-pair-share, modeling, individual, and group work designed to extend student understanding of lecture content and introduce new statistical concepts. Taught 5 activity sections with 30 undergraduate students per section. Students primarily pre-healthcare majors. Attended lecture twice per week and held 2 hours of office hours weekly.</li>
   </ul>
 
-  <h4 style="font-size: 1.05em; margin-top: 0.75rem;">Essential Algebra B</h4>
+  <h4 style="font-size: 1.05em; margin-top: 0.75rem;">Essential Algebra A/B</h4>
   <ul>
     <li>Assisted with development and implementation during the first semester of the course. Developed lesson plans connecting Geometry taught in activity sections to Algebra concepts in large lecture. Lessons included think-pair-share, modeling, individual, and group work. Taught 4-5 activity sections per semester with 25-30 undergraduate students per section, primarily STEM majors. Attended lecture twice per week and held 2 hours of office hours weekly.</li>
   </ul>
@@ -97,7 +109,7 @@ I incorporate a variety of instructional strategies, including think-pair-share,
   </ul>
 
   <!-- Mentor Supplemental Instructor -->
-  <h3 style="margin-top: 1rem;">Mentor Supplemental Instructor, California State University, Long Beach</h3>
+  <h3 style="margin-top: 1rem;">Mentor Supplemental Instructor, California State University, Long Beach (2017–2018)</h3>
 
   <h4 style="font-size: 1.05em; margin-top: 0.75rem;">Business Calculus*</h4>
   <ul>
