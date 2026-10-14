@@ -202,25 +202,24 @@ a.home-all {
 
 /* ---------- Wider layout on desktop ----------
    The theme reserves ~17% of the page on the right for a second sidebar
-   this site does not use, and caps the layout at 1280px. Reclaim both. */
+   this site does not use, and caps the layout width. Reclaim both. */
 @media (min-width: 57.8125em) {
-  #main .page {
-    padding-right: 0;
-  }
-}
-@media (min-width: 80em) {
   #main,
   .masthead__inner-wrap {
-    max-width: 1440px;
+    max-width: 1440px !important;
+  }
+  #main .page {
+    padding-right: 0 !important;
   }
 }
 
 /* ---------- Sidebar link text ----------
    The theme sets these at its smallest type size; bring them closer
    to the body text. */
-.sidebar .author__urls li {
-  font-size: 0.92rem;
-  line-height: 1.6;
+.sidebar .author__urls li,
+.sidebar .author__urls li a {
+  font-size: 0.92rem !important;
+  line-height: 1.6 !important;
 }
 .sidebar .author__urls .ai {
   font-size: 1.1em;

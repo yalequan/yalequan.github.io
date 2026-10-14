@@ -12,7 +12,7 @@
 <link rel="stylesheet" href="{{ '/assets/css/academicons.css' | relative_url }}">
 
 <!-- Homepage redesign (Oct 2026); remove this line to revert to the previous look -->
-<link rel="stylesheet" href="{{ '/assets/css/home-redesign.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/home-redesign.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 
 <!-- Lets a page opt out of search indexing with `robots: noindex` in its front matter -->
 {% if page.robots %}<meta name="robots" content="{{ page.robots }}">{% endif %}
