@@ -52,6 +52,10 @@ author_profile: true
 ## Peer-Reviewed Journal Articles
 
 <p class="apa-ref">
+  <b>Quan, Y.</b>, & Wang, C. (2026). Transitive DIF clustering: A graph-theoretic approach to identifying many-group partial measurement invariance. <em>Psychological Methods</em>. <a href="https://doi.org/10.1037/met0000873">https://doi.org/10.1037/met0000873</a>
+</p>
+
+<p class="apa-ref">
   Wang, C., <b>Quan, Y.</b>, & Arthur, D. (2026). Review of cognitive diagnostic models (CDMs): Recent methodological advancements for addressing practical challenges. <em>British Journal of Mathematical and Statistical Psychology</em>, 00, 1–35. <a href="https://doi.org/10.1111/bmsp.70066">https://doi.org/10.1111/bmsp.70066</a>
 </p>
 
@@ -89,10 +93,6 @@ author_profile: true
 <p class="apa-ref">
   Shao, K.,  <b>Quan, Y.</b>, Wilson, D., Makhsous, S. (Under Review). Designing Needs- and 
   Attention-Aware AI Chatbots for Engineering Education: Insights from Psychological Outcomes. <em>TOCHI</em>.
-</p>
-
-<p class="apa-ref">
-  <b>Quan, Y.</b>, & Wang, C. (under review). Transitive DIF clustering: A graph-theoretic approach to identifying many-group partial measurement invariance. <em>Psychological Methods</em>.
 </p>
 
 <p class="apa-ref">
