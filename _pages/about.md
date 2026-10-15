@@ -10,7 +10,7 @@ redirect_from:
 <div class="home">
 
 <h1 class="home-lead">I develop methods for educational and psychological measurement.</h1>
-<p class="home-lead__second">My work uses statistical and machine learning tools to help tests and surveys measure fairly and accurately, even when data are limited.</p>
+<p class="home-lead__second">My research focuses on the development of statistical and machine learning tools to help tests and surveys measure fairly and accurately, even when data are limited.</p>
 
 <hr class="home-rule">
 
