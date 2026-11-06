@@ -1,6 +1,9 @@
 # News items. Newest first; the homepage shows the first 3, and /news/ shows all.
 # Use *asterisks* for italics (e.g., journal names).
 
+- date: "November 2026"
+  text: "Received a mini-grant from the Southern Miss University Libraries AI Pro Tool Access Program to study the use of large language models to write psychological survey items."
+
 - date: "July 2026"
   text: "Joined The University of Southern Mississippi as Assistant Professor of Education (RESA)."
 
