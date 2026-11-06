@@ -17,17 +17,17 @@ redirect_from:
 <h2>Research areas</h2>
 
 <div class="home-cards">
-  <a class="home-card" href="{{ site.baseurl }}/research/">
+  <a class="home-card" href="{{ site.baseurl }}/research/#ml-psychometrics">
     <h3>Integrating Machine Learning and Psychometrics</h3>
     <p>Bringing neural networks, graph-based methods, and other machine learning tools into psychometric modeling, from detecting item bias to estimating parameters and scoring.</p>
     <span class="home-card__more">Read more &rarr;</span>
   </a>
-  <a class="home-card" href="{{ site.baseurl }}/research/">
-    <h3>Diagnostic Classification Models</h3>
+  <a class="home-card" href="{{ site.baseurl }}/research/#cdm">
+    <h3>Cognitive Diagnostic Models</h3>
     <p>Methodological frameworks that make diagnostic models practical, from design and specification to model fit, so they give reliable, actionable feedback.</p>
     <span class="home-card__more">Read more &rarr;</span>
   </a>
-  <a class="home-card" href="{{ site.baseurl }}/research/">
+  <a class="home-card" href="{{ site.baseurl }}/research/#complex-data">
     <h3>Measurement in Complex Data</h3>
     <p>Methods for settings that challenge standard models: small samples, many groups, sparse responses, and missing data.</p>
     <span class="home-card__more">Read more &rarr;</span>

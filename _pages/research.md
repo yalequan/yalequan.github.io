@@ -35,9 +35,9 @@ This question sits at the heart of my work and connects issues of psychometric m
 
 ## Research Areas
 
-### Psychometric Theory and Methods
+### Integrating Machine Learning and Psychometrics {#ml-psychometrics}
 
-My methodological research develops psychometric models for culturally responsive measurement, with a focus on small-sample, many-group, and high-dimensional data.
+I bring neural networks, graph-based methods, and other machine learning tools into psychometric modeling, from detecting item bias to estimating parameters and scoring.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin-bottom: 1.5rem;">
   <div style="background-color: var(--light-bg, #ffffff); padding: 1rem; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
@@ -45,40 +45,62 @@ My methodological research develops psychometric models for culturally responsiv
     Neural network approaches, including multi-label classification, for detecting differential item functioning across intersecting demographic groups with small samples.
   </div>
   <div style="background-color: var(--light-bg, #ffffff); padding: 1rem; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+    <strong>Machine Learning for Prediction</strong><br>
+    Machine learning for binary prediction with incomplete, imbalanced data and non-linear effects.
+  </div>
+  <div style="background-color: var(--light-bg, #ffffff); padding: 1rem; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+    <strong>LLM-Generated Items</strong><br>
+    Evaluating AI-generated assessment and survey items against human-written items.
+  </div>
+  <div style="background-color: var(--light-bg, #ffffff); padding: 1rem; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+    <strong>Psychometric and Computational Integration</strong><br>
+    Combining psychometric and computational approaches to support equity, interpretability, and generalizability.
+  </div>
+</div>
+
+<p class="research-ongoing"><strong>In progress:</strong> Extending neural network approaches to item bias detection so they generalize to new settings.</p>
+
+---
+
+### Cognitive Diagnostic Models {#cdm}
+
+I develop methodological frameworks that make diagnostic models practical, from design and specification to model fit, so they give reliable, actionable feedback.
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin-bottom: 1.5rem;">
+  <div style="background-color: var(--light-bg, #ffffff); padding: 1rem; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+    <strong>Practical Recommendations</strong><br>
+    Sample size, test length, item fit, and Q-matrix recommendations for cognitive diagnostic models in practical applications.
+  </div>
+  <div style="background-color: var(--light-bg, #ffffff); padding: 1rem; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+    <strong>Methodological Review</strong><br>
+    Reviewing recent methodological advances that address practical challenges in cognitive diagnostic models.
+  </div>
+</div>
+
+<p class="research-ongoing"><strong>In progress:</strong> Developing a probabilistic approach to Q-matrix estimation.</p>
+
+---
+
+### Measurement in Complex Data {#complex-data}
+
+I develop methods for settings that challenge standard models: small samples, many groups, sparse responses, and missing data.
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin-bottom: 1.5rem;">
+  <div style="background-color: var(--light-bg, #ffffff); padding: 1rem; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
     <strong>Many-Group Measurement Invariance</strong><br>
     Graph-theoretic methods, such as transitive DIF clustering, for identifying partial measurement invariance and improving parameter estimation across many groups.
   </div>
   <div style="background-color: var(--light-bg, #ffffff); padding: 1rem; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
     <strong>Item Response Theory</strong><br>
-    Multiple-group and higher-order IRT models, including calibration with structural missingness and handling sparse responses for polytomous items.
-  </div>
-  <div style="background-color: var(--light-bg, #ffffff); padding: 1rem; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-    <strong>Diagnostic Classification Models</strong><br>
-    Sample size, test length, item fit, and Q-matrix recommendations for cognitive diagnostic models in practical applications.
+    Multiple-group and higher-order IRT models, including calibration with structural missingness.
   </div>
 </div>
 
----
-
-### AI, Machine Learning, and Assessment
-
-I study where machine learning and artificial intelligence can strengthen educational measurement, and where they fall short.
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin-bottom: 1.5rem;">
-  <div style="background-color: var(--light-bg, #ffffff); padding: 1rem; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-    Machine learning for binary prediction with incomplete, imbalanced data and non-linear effects.
-  </div>
-  <div style="background-color: var(--light-bg, #ffffff); padding: 1rem; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-    Evaluating AI-generated assessment items and survey items against human-written items.
-  </div>
-  <div style="background-color: var(--light-bg, #ffffff); padding: 1rem; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-    Combining psychometric and computational approaches to support equity, interpretability, and generalizability.
-  </div>
-</div>
+<p class="research-ongoing"><strong>In progress:</strong> How decisions about sparse response categories affect item bias detection.</p>
 
 ---
 
-### Applied Impact
+### Applied Impact {#applied}
 
 In my applied work, I collaborate with K–12 schools and community partners to study barriers to student success, and I apply psychometric and statistical methods in healthcare and psychological research.
 
@@ -105,18 +127,3 @@ In my applied work, I collaborate with K–12 schools and community partners to 
   <li><strong>National Council of Teachers of Mathematics (NCTM)</strong> – Quantitative Researcher (Winter 2026)</li>
   <li><strong>Project HARLI</strong> – Quantitative Researcher and Interviewer (Winter 2026)</li>
 </ul>
-
----
-
-<div style="background-color: var(--warm-bg, #f8f6f4); padding: 1.5rem; border-left: 4px solid var(--primary-warm, #c17d5f); border-radius: 6px; margin-bottom: 2rem;">
-<p>
-<b>Current Work:</b>
-</p>
-
-<ul>
-  <li>Developing transportable neural network methods for flagging intersectional DIF across many groups.</li>
-  <li>Examining how collapsing response categories affects DIF detection under the graded response model.</li>
-  <li>Detecting Q-matrix misspecification in diagnostic models with small samples.</li>
-  <li>Comparing human-written and LLM-generated survey items measuring students' sense of belonging in online courses.</li>
-</ul>
-</div>
