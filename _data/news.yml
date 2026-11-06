@@ -1,4 +1,4 @@
-# Homepage news. Newest first; the homepage shows the first 5.
+# News items. Newest first; the homepage shows the first 3, and /news/ shows all.
 # Use *asterisks* for italics (e.g., journal names).
 
 - date: "July 2026"

@@ -58,12 +58,14 @@ redirect_from:
 
 <a class="home-all" href="{{ site.baseurl }}/publications_and_presentations/">All publications and presentations &rarr;</a>
 
-<h2>News</h2>
+<h2>Recent news</h2>
 
 <ul class="home-news">
-{% for item in site.data.news limit: 5 %}
+{% for item in site.data.news limit: 3 %}
   <li><span class="home-news__date">{{ item.date }}</span><span class="home-news__text">{{ item.text | markdownify | remove: '<p>' | remove: '</p>' | strip }}</span></li>
 {% endfor %}
 </ul>
+
+<a class="home-all" href="{{ site.baseurl }}/news/">All news &rarr;</a>
 
 </div>
