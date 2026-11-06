@@ -40,12 +40,12 @@ redirect_from:
 
 <ul class="home-pubs">
   <li>
-    <div class="home-pubs__title">Transitive DIF clustering: A graph-theoretic approach to identifying many-group partial measurement invariance</div>
+    <div class="home-pubs__title">Transitive differential item functioning clustering: A graph-theoretic approach to identifying many-group partial measurement invariance</div>
     <div class="home-pubs__meta"><b>Quan, Y.</b>, &amp; Wang, C. (2026). <em>Psychological Methods</em>.</div>
     <div class="home-pubs__links"><a class="home-tag" href="https://doi.org/10.1037/met0000873">DOI</a></div>
   </li>
   <li>
-    <div class="home-pubs__title">Using multi-label classification neural networks to detect intersectional DIF with small sample sizes</div>
+    <div class="home-pubs__title">Using multilabel classification neural network to detect intersectional DIF with small sample sizes</div>
     <div class="home-pubs__meta"><b>Quan, Y.</b>, &amp; Wang, C. (2026). <em>British Journal of Mathematical and Statistical Psychology</em>.</div>
     <div class="home-pubs__links"><a class="home-tag" href="https://doi.org/10.1111/bmsp.70041">DOI</a></div>
   </li>

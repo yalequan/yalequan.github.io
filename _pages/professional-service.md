@@ -10,6 +10,7 @@ author_profile: true
   <li><em>Psychometrika</em> (2026–Present)</li>
   <li><em>Educational and Psychological Measurement</em> (2026–Present)</li>
   <li><em>British Journal of Mathematical and Statistical Psychology</em> (2026–Present)</li>
+  <li><em>Journal of Educational and Behavioral Statistics</em> (2026–Present)</li>
   <li><em>Methodology: European Journal of Research Methods for the Behavioral and Social Sciences</em> (2025–Present)</li>
   <li><em>Journal of Behavioral Data Science</em> (2025–Present)</li>
   <li><em>Journal of Educational Measurement</em> (2025–Present)</li>
@@ -37,4 +38,16 @@ author_profile: true
 <ul>
   <li>National Council on Measurement in Education (2022–Present)</li>
   <li>American Educational Research Association, Division D (2022–Present)</li>
+</ul>
+
+## Awards and Honors
+<ul>
+  <li>Three-Year Community Partner Fellowship Award, University of Washington (2022–2025)</li>
+</ul>
+
+## Professional Training and Certifications
+<ul>
+  <li>Data Science Methods for Digital Learning Platforms Certification, University of Pennsylvania (2025)</li>
+  <li>National Assessment of Educational Progress Winter Data Training, American Institutes for Research (2023)</li>
+  <li>National Assessment of Educational Progress Process Data Training Series, American Institutes for Research (2021)</li>
 </ul>

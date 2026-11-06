@@ -60,7 +60,7 @@ I incorporate a variety of instructional strategies, including think-pair-share,
 
   <!-- Assistant Professor -->
   <h3 style="margin-top: 1rem;">Assistant Professor, The University of Southern Mississippi (2026–Present)</h3>
-  <p><em>College of Education and Human Sciences – Research, Evaluation, Statistics, and Assessment</em></p>
+  <p><em>School of Education, College of Education and Human Sciences – Research, Evaluation, Statistics, and Assessment</em></p>
 
   <h4 style="font-size: 1.05em; margin-top: 0.75rem;">Measurement in Educational Research*</h4>
 
@@ -90,7 +90,7 @@ I incorporate a variety of instructional strategies, including think-pair-share,
   </ul>
 
   <!-- Graduate Teaching Associate -->
-  <h3 style="margin-top: 1rem;">Graduate Teaching Associate, California State University, Long Beach (2018–2021)</h3>
+  <h3 style="margin-top: 1rem;">Graduate Teaching Associate, California State University, Long Beach (2018–2020)</h3>
   <p><em>Department of Mathematics and Statistics</em></p>
 
   <h4 style="font-size: 1.05em; margin-top: 0.75rem;">Statistics for Everyday Life</h4>
