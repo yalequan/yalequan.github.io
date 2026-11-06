@@ -39,20 +39,20 @@ This question sits at the heart of my work and connects issues of psychometric m
 
 I bring neural networks, graph-based methods, and other machine learning tools into psychometric modeling, from detecting item bias to estimating parameters and scoring.
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin-bottom: 1.5rem;">
-  <div style="background-color: var(--light-bg, #ffffff); padding: 1rem; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+<div class="research-cards">
+  <div class="research-card">
     <strong>Intersectional DIF</strong><br>
     Neural network approaches, including multi-label classification, for detecting differential item functioning across intersecting demographic groups with small samples.
   </div>
-  <div style="background-color: var(--light-bg, #ffffff); padding: 1rem; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <div class="research-card">
     <strong>Machine Learning for Prediction</strong><br>
     Machine learning for binary prediction with incomplete, imbalanced data and non-linear effects.
   </div>
-  <div style="background-color: var(--light-bg, #ffffff); padding: 1rem; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <div class="research-card">
     <strong>LLM-Generated Items</strong><br>
     Evaluating AI-generated assessment and survey items against human-written items.
   </div>
-  <div style="background-color: var(--light-bg, #ffffff); padding: 1rem; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <div class="research-card">
     <strong>Psychometric and Computational Integration</strong><br>
     Combining psychometric and computational approaches to support equity, interpretability, and generalizability.
   </div>
@@ -66,12 +66,12 @@ I bring neural networks, graph-based methods, and other machine learning tools i
 
 I develop methodological frameworks that make diagnostic models practical, from design and specification to model fit, so they give reliable, actionable feedback.
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin-bottom: 1.5rem;">
-  <div style="background-color: var(--light-bg, #ffffff); padding: 1rem; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+<div class="research-cards">
+  <div class="research-card">
     <strong>Practical Recommendations</strong><br>
     Sample size, test length, item fit, and Q-matrix recommendations for cognitive diagnostic models in practical applications.
   </div>
-  <div style="background-color: var(--light-bg, #ffffff); padding: 1rem; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <div class="research-card">
     <strong>Methodological Review</strong><br>
     Reviewing recent methodological advances that address practical challenges in cognitive diagnostic models.
   </div>
@@ -85,12 +85,12 @@ I develop methodological frameworks that make diagnostic models practical, from 
 
 I develop methods for settings that challenge standard models: small samples, many groups, sparse responses, and missing data.
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin-bottom: 1.5rem;">
-  <div style="background-color: var(--light-bg, #ffffff); padding: 1rem; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+<div class="research-cards">
+  <div class="research-card">
     <strong>Many-Group Measurement Invariance</strong><br>
     Graph-theoretic methods, such as transitive DIF clustering, for identifying partial measurement invariance and improving parameter estimation across many groups.
   </div>
-  <div style="background-color: var(--light-bg, #ffffff); padding: 1rem; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <div class="research-card">
     <strong>Item Response Theory</strong><br>
     Multiple-group and higher-order IRT models, including calibration with structural missingness.
   </div>
@@ -104,14 +104,14 @@ I develop methods for settings that challenge standard models: small samples, ma
 
 In my applied work, I collaborate with K–12 schools and community partners to study barriers to student success, and I apply psychometric and statistical methods in healthcare and psychological research.
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin-bottom: 1.5rem;">
-  <div style="background-color: var(--light-bg, #ffffff); padding: 1rem; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+<div class="research-cards">
+  <div class="research-card">
     Studying student belonging and chronic absenteeism with K–12 and community partners.
   </div>
-  <div style="background-color: var(--light-bg, #ffffff); padding: 1rem; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <div class="research-card">
     Designing dashboards and visualizations to guide equitable resource allocation.
   </div>
-  <div style="background-color: var(--light-bg, #ffffff); padding: 1rem; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <div class="research-card">
     Consulting on research design, statistical analysis, and evidence-based decision-making.
   </div>
 </div>

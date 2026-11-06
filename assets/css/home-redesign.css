@@ -254,3 +254,18 @@ body {
   margin-top: -0.5rem;
   margin-bottom: 1.5rem;
 }
+
+/* Research page cards: same look as the homepage cards */
+.research-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+.research-card {
+  background: var(--warm-bg);
+  border: 1px solid var(--warm-gray-100);
+  border-top: 3px solid var(--primary-warm);
+  border-radius: 8px;
+  padding: 1.15rem 1.2rem 1.25rem;
+}
